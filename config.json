@@ -1,0 +1,12 @@
+{
+  "environment": "sandbox",
+  "marketplace": "EBAY_US",
+  "threshold": 50,
+  "delay_seconds": 0.3,
+  "parts": [
+    "alternator", "starter", "ECU", "headlight", "tail light",
+    "side mirror", "radio", "instrument cluster", "AC compressor",
+    "power steering pump", "throttle body", "window regulator",
+    "ABS module", "door handle", "fuse box"
+  ]
+}

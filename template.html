@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Pull List</title>
+<style>
+  :root {
+    --asphalt: #2b2d2f;
+    --safety: #ffc20e;
+    --paper: #ffffff;
+    --ink: #1c1c1c;
+    --muted: #6b6f73;
+    --line: #e2e3e4;
+    --go: #1e7f3c;
+    --bg: #f1f1ef;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--bg); color: var(--ink);
+    font: 16px/1.4 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  header {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--asphalt); color: var(--paper);
+    padding: calc(12px + env(safe-area-inset-top, 0px)) 16px 14px;
+    border-bottom: 6px solid var(--safety);
+  }
+  .top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  h1 { margin: 0; font-size: 1.15rem; font-weight: 800; }
+  .updated { color: #b9bcbf; font-size: .8rem; }
+  .dial { display: flex; align-items: center; gap: 14px; margin-top: 10px; }
+  .pct {
+    font-size: 2.6rem; font-weight: 900; color: var(--safety);
+    min-width: 4.2ch; line-height: 1; font-variant-numeric: tabular-nums;
+  }
+  .dial label { font-size: .8rem; color: #b9bcbf; display: block; margin-bottom: 4px; }
+  .dial > div { flex: 1; }
+  input[type=range] { width: 100%; accent-color: var(--safety); height: 32px; }
+  .count { font-size: .9rem; margin-top: 2px; }
+  .notice {
+    margin: 14px 16px 0; padding: 12px 14px; background: #fff7d6;
+    border-left: 4px solid var(--safety); font-size: .9rem;
+  }
+  main { padding: 8px 12px 40px; max-width: 720px; margin: 0 auto; }
+  .car { background: var(--paper); margin-top: 12px; border: 1px solid var(--line); }
+  .car h2 {
+    margin: 0; padding: 10px 14px; font-size: 1.05rem; display: flex;
+    justify-content: space-between; gap: 8px; border-bottom: 1px solid var(--line);
+  }
+  .row { background: var(--asphalt); color: var(--safety); padding: 1px 8px; font-size: .85rem; white-space: nowrap; }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li {
+    display: grid; grid-template-columns: 1fr auto; gap: 2px 12px;
+    padding: 12px 14px; border-bottom: 1px solid var(--line); cursor: pointer;
+    min-height: 56px;
+  }
+  li:last-child { border-bottom: 0; }
+  .part { font-weight: 700; }
+  .st { font-weight: 900; color: var(--go); text-align: right; font-variant-numeric: tabular-nums; }
+  .nums { color: var(--muted); font-size: .82rem; grid-column: 1 / -1; }
+  li.pulled .part, li.pulled .st { text-decoration: line-through; color: var(--muted); }
+  li.pulled::after { content: "Pulled"; grid-column: 1 / -1; font-size: .78rem; color: var(--muted); }
+  .empty { text-align: center; color: var(--muted); padding: 40px 16px; }
+  li:focus-visible, input:focus-visible { outline: 3px solid var(--safety); outline-offset: 2px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>Pull List</h1>
+    <span class="updated" id="updated"></span>
+  </div>
+  <div class="dial">
+    <div class="pct" id="pct">50%</div>
+    <div>
+      <label for="slider">Minimum sell-through</label>
+      <input id="slider" type="range" min="0" max="200" step="5" value="50">
+      <div class="count" id="count"></div>
+    </div>
+  </div>
+</header>
+<div class="notice" id="notice" hidden></div>
+<main id="list"></main>
+
+<script>
+const DATA = /*__DATA__*/null;
+const listEl = document.getElementById("list");
+const slider = document.getElementById("slider");
+const pctEl = document.getElementById("pct");
+const countEl = document.getElementById("count");
+
+function key() { return "pulled:" + (DATA ? DATA.updated.slice(0, 10) : ""); }
+function loadPulled() { try { return new Set(JSON.parse(localStorage.getItem(key()) || "[]")); } catch { return new Set(); } }
+function savePulled(s) { try { localStorage.setItem(key(), JSON.stringify([...s])); } catch {} }
+let pulled = loadPulled();
+
+function stText(st) { return st === 999 ? "No competition" : st + "%"; }
+
+function render() {
+  if (!DATA) { listEl.innerHTML = '<p class="empty">No run yet. Start the workflow in GitHub to build today\'s list.</p>'; return; }
+  const min = Number(slider.value);
+  pctEl.textContent = min + "%";
+  const rows = DATA.results.filter(r => DATA.haveSold ? (r.st !== null && r.st >= min) : true);
+  const groups = new Map();
+  for (const r of rows) {
+    const k = r.row + "|" + r.vehicle;
+    if (!groups.has(k)) groups.set(k, { row: r.row, vehicle: r.vehicle, parts: [] });
+    groups.get(k).parts.push(r);
+  }
+  const sorted = [...groups.values()].sort((a, b) => String(a.row).localeCompare(String(b.row), undefined, { numeric: true }));
+  countEl.textContent = rows.length + " parts on " + sorted.length + " vehicles";
+  if (!rows.length) { listEl.innerHTML = '<p class="empty">No parts meet this sell-through. Lower the slider to see more.</p>'; return; }
+  listEl.innerHTML = "";
+  for (const g of sorted) {
+    g.parts.sort((a, b) => (b.st ?? 0) - (a.st ?? 0));
+    const sec = document.createElement("section");
+    sec.className = "car";
+    sec.innerHTML = `<h2><span></span>${g.row ? '<span class="row"></span>' : ""}</h2><ul></ul>`;
+    sec.querySelector("h2 span").textContent = g.vehicle;
+    if (g.row) sec.querySelector(".row").textContent = "Row " + g.row;
+    const ul = sec.querySelector("ul");
+    for (const p of g.parts) {
+      const id = g.vehicle + "|" + p.part;
+      const li = document.createElement("li");
+      li.tabIndex = 0;
+      if (pulled.has(id)) li.classList.add("pulled");
+      const sold = p.sold === null ? "n/a" : p.sold;
+      const active = p.active === null ? "n/a" : p.active;
+      li.innerHTML = `<span class="part"></span><span class="st"></span><span class="nums"></span>`;
+      li.querySelector(".part").textContent = p.part;
+      li.querySelector(".st").textContent = p.st === null ? "" : stText(p.st);
+      li.querySelector(".nums").textContent = `${sold} sold in 90 days, ${active} listed now`;
+      const toggle = () => {
+        pulled.has(id) ? pulled.delete(id) : pulled.add(id);
+        savePulled(pulled); li.classList.toggle("pulled");
+      };
+      li.addEventListener("click", toggle);
+      li.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+      ul.appendChild(li);
+    }
+    listEl.appendChild(sec);
+  }
+}
+
+if (DATA) {
+  document.getElementById("updated").textContent = "Updated " + DATA.updated;
+  slider.value = DATA.threshold;
+  const n = document.getElementById("notice");
+  if (!DATA.haveSold) {
+    n.hidden = false; slider.disabled = true;
+    n.textContent = "Sold data isn't available yet, so this shows every part with its active listing count. The slider turns on once eBay approves sold-data access.";
+  } else if (DATA.env !== "production") {
+    n.hidden = false;
+    n.textContent = DATA.env === "mock" ? "Test run with made-up numbers." : "Sandbox run: eBay test data, not real market numbers.";
+  }
+}
+slider.addEventListener("input", render);
+render();
+</script>
+</body>
+</html>
