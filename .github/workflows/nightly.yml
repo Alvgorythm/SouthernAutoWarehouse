@@ -22,6 +22,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Get new vehicles from the yard
+        run: python scrape_yard.py
       - name: Build pull list
         env:
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
@@ -29,9 +32,10 @@ jobs:
           PULLLIST_MOCK: ${{ inputs.mock }}
         run: python pulllist.py
       - name: Publish
+        if: always()
         run: |
           git config user.name "pulllist-bot"
           git config user.email "pulllist-bot@users.noreply.github.com"
-          git add docs/index.html logs/api_log.txt
+          git add -A docs logs vehicles.csv
           git commit -m "Pull list $(date -u +%F)" || echo "No changes"
           git push
