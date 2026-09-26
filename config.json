@@ -1,12 +1,24 @@
 {
+  "yard_url": "https://www.pullapart.com/used-auto-parts/new-on-yard/?Locations=12&DaysOnYard=1&LocationPage=false&LocationID=0",
   "environment": "sandbox",
   "marketplace": "EBAY_US",
   "threshold": 50,
   "delay_seconds": 0.3,
   "parts": [
-    "alternator", "starter", "ECU", "headlight", "tail light",
-    "side mirror", "radio", "instrument cluster", "AC compressor",
-    "power steering pump", "throttle body", "window regulator",
-    "ABS module", "door handle", "fuse box"
+    "alternator",
+    "starter",
+    "ECU",
+    "headlight",
+    "tail light",
+    "side mirror",
+    "radio",
+    "instrument cluster",
+    "AC compressor",
+    "power steering pump",
+    "throttle body",
+    "window regulator",
+    "ABS module",
+    "door handle",
+    "fuse box"
   ]
 }
