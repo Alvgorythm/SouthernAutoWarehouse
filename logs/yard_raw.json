@@ -69367,7 +69367,7 @@
   ]
  },
  {
-  "url": "https://cdn-cookieyes.com/client_data/dc34215fe772012946c34a9f211dcc1e/config/jpW-Ad7o.json",
+  "url": "https://cdn-cookieyes.com/client_data/dc34215fe772012946c34a9f211dcc1e/config/5vgbEO0b.json",
   "data": {
    "reloadOnAccept": true,
    "dataShortCodes": [
@@ -69379,7 +69379,8 @@
      "uiTag": "show-desc-button",
      "type": "data",
      "customTag": "",
-     "attributes": {}
+     "attributes": {},
+     "processedHTML": "<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-expanded=\"false\" aria-label=\"[cky_showmore_text]\" style=\"color: #1863dc;\">[cky_showmore_text]</button>"
     },
     {
      "key": "cky_hide_desc",
@@ -69389,7 +69390,8 @@
      "uiTag": "hide-desc-button",
      "type": "data",
      "customTag": "",
-     "attributes": {}
+     "attributes": {},
+     "processedHTML": "<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-expanded=\"true\" aria-label=\"[cky_showless_text]\" style=\"color: #1863dc;\">[cky_showless_text]</button>"
     },
     {
      "key": "cky_readmore",
@@ -69403,7 +69405,7 @@
      "attributes": {
       "data-cky-tag": "readmore-button"
      },
-     "processedHTML": ""
+     "processedHTML": "<a href=\"#\" class=\"cky-policy\" aria-label=\"[cky_readmore_text]\" target=\"_blank\" rel=\"noopener\" style=\"color: #1863dc; border-color: TRANSPARENT; background-color: transparent;\" data-cky-tag=\"readmore-button\">[cky_readmore_text]</a>"
     },
     {
      "key": "cky_category_toggle_label",
@@ -69437,7 +69439,7 @@
      "attributes": {
       "data-cky-tag": "detail-dma-button"
      },
-     "processedHTML": ""
+     "processedHTML": "<a href=\"#\" class=\"cky-policy\" aria-label=\"[cky_dma_readmore_text]\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" style=\"color: #1863dc; border-color: transparent; background-color: transparent;\" data-cky-tag=\"detail-dma-button\">[cky_dma_readmore_text]</a>"
     },
     {
      "key": "cky_optout_show_desc",
@@ -69447,8 +69449,7 @@
      "uiTag": "optout-show-desc-button",
      "type": "data",
      "customTag": "",
-     "attributes": {},
-     "processedHTML": "<button class=\"cky-show-desc-btn\" data-cky-tag=\"optout-show-desc-button\" aria-expanded=\"false\" aria-label=\"[cky_showmore_text]\" style=\"color: #1863dc;\">[cky_showmore_text]</button>"
+     "attributes": {}
     },
     {
      "key": "cky_optout_hide_desc",
@@ -69458,42 +69459,272 @@
      "uiTag": "optout-hide-desc-button",
      "type": "data",
      "customTag": "",
-     "attributes": {},
-     "processedHTML": "<button class=\"cky-show-desc-btn\" data-cky-tag=\"optout-hide-desc-button\" aria-expanded=\"true\" aria-label=\"[cky_showless_text]\" style=\"color: #1863dc;\">[cky_showless_text]</button>"
+     "attributes": {}
     }
    ],
-   "iabDataShortCodes": [],
-   "activeLaw": "ccpa",
-   "showAuditTable": false,
+   "iabDataShortCodes": [
+    {
+     "key": "cky_iab_purpose_n_features_section_toggle",
+     "content": {
+      "container": "<div class=\"cky-switch\"> <input type=\"checkbox\" role=\"switch\" id=\"[ITEM_ID]Toggle\" aria-label=\"[cky_{{status}}_category_label] [cky_iab_purpose_n_features_{{sectionKey}}_title]\" autocomplete=\"off\"/> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_common_item_legitimate_toggle",
+     "content": {
+      "container": "<div class=\"cky-legitimate-switch-wrapper\"> <div class=\"cky-switch-label\">[cky_iab_common_legitimate_interest]</div><div class=\"cky-switch-sm\"> <input type=\"checkbox\" role=\"switch\" id=\"[ITEM_ID]ToggleLegitimate\" aria-label=\"[cky_{{status}}_category_label] [ITEM_NAME] [cky_iab_common_legitimate_interest]\" autocomplete=\"off\"/> </div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_common_item_consent_toggle",
+     "content": {
+      "container": "<div class=\"cky-consent-switch-wrapper\"> <div class=\"cky-switch-label\">[cky_iab_common_consent]</div><div class=\"cky-switch-sm\"> <input type=\"checkbox\" role=\"switch\" id=\"[ITEM_ID]ToggleConsent\" aria-label=\"[cky_{{status}}_category_label] [ITEM_NAME] [cky_iab_common_consent]\" autocomplete=\"off\"/> </div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_purpose_n_features_item_illustration",
+     "content": {
+      "container": "<div class=\"cky-iab-illustrations\"> <p class=\"cky-iab-illustrations-title\">[cky_iab_purpose_n_feature_illustration_subtitle]</p><ul class=\"cky-iab-illustrations-des\">[CONTENT]</ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_purpose_n_features_item_vendor_count",
+     "content": {
+      "container": "<p class=\"cky-iab-vendors-count-wrapper\">[COUNT_DATA]</p>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_section_toggle",
+     "content": {
+      "container": "<div class=\"cky-switch\"> <input type=\"checkbox\" role=\"switch\" id=\"[ITEM_ID]Toggle\" aria-label=\"[cky_{{status}}_category_label] [cky_iab_vendors_{{sectionKey}}_title]\" autocomplete=\"off\"/> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_legitimate_interest",
+     "content": {
+      "container": "<p class=\"cky-vendor-legitimate-link\"> <span class=\"cky-vendor-legitimate-link-title\" >[cky_iab_vendors_legitimate_interest_link_subtitle]:</span >&nbsp; <a href=\"[LEGITIMATE_INTEREST_LINK]\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"[cky_iab_vendors_legitimate_interest_link_subtitle]\" >[LEGITIMATE_INTEREST_LINK] <img class=\"external-link-img\" src=\"https://cdn-cookieyes.com/assets/images/external-link.svg\" alt=\"external link\"/></a ></p>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_purposes",
+     "content": {
+      "container": "<div class=\"cky-vendor-purposes-section\"> <p class=\"cky-vendor-purposes-title\">[HEADER]</p><ul class=\"cky-vendor-purposes-list\">[CONTENT]</ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_special_purposes",
+     "content": {
+      "container": "<div class=\"cky-vendor-special-purposes-section\"> <p class=\"cky-vendor-special-purposes-title\"> [cky_iab_common_special_purposes] </p><ul class=\"cky-vendor-special-purposes-list\">[CONTENT]</ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_features",
+     "content": {
+      "container": "<div class=\"cky-vendor-features-section\"> <p class=\"cky-vendor-features-title\">[cky_iab_common_features]</p><ul class=\"cky-vendor-features-list\">[CONTENT]</ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_special_features",
+     "content": {
+      "container": "<div class=\"cky-vendor-special-features-section\"> <p class=\"cky-vendor-special-features-title\"> [cky_iab_common_special_features] </p><ul class=\"cky-vendor-special-features-list\">[CONTENT]</ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_data_categories",
+     "content": {
+      "container": "<div class=\"cky-vendor-categories-section\"> <p class=\"cky-vendor-categories-title\"> [cky_iab_vendors_categories_of_data_subtitle] </p><ul class=\"cky-vendor-categories-list\">[CONTENT]</ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_data_retention",
+     "content": {
+      "container": "<p class=\"cky-vendor-data-retention-section\">[cky_iab_vendors_item_data_retention_message]</p>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_data_retention_message",
+     "content": {
+      "container": "<span class=\"cky-vendor-data-retention-value\" >[cky_iab_vendors_retention_period_of_data_subtitle]:&nbsp;[DATA_RENTENTION_DAYS]&nbsp;[cky_iab_vendors_retention_period_of_data_unit]</span>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_storage_disclosure",
+     "content": {
+      "container": "<div class=\"cky-vendor-storage-disclosure-section\" id=\"[ITEM_ID]Disclosure\"> <p class=\"cky-vendor-storage-disclosure-title\"> [cky_iab_vendors_device_storage_disclosure_title] </p><div class=\"cky-audit-table cky-vendor-audit-table\">[CONTENT]</div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_table_button",
+     "content": {
+      "container": "<button class=\"cky-show-table-btn\" id=\"[ITEM_ID]DisclosureControl\">[BUTTON_TEXT]</button>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_loader",
+     "content": {
+      "container": "<p class=\"cky-loader\" id=\"[ITEM_ID]Loader\">[cky_iab_common_loading]</p>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_loaderror",
+     "content": {
+      "container": "<p class=\"cky-error-msg\" id=\"[ITEM_ID]LoadError\">[cky_iab_common_load_error]</p>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_purpose_n_features_item",
+     "content": {
+      "container": "<div class=\"cky-child-accordion\" id=\"[ITEM_ID]\"> <div class=\"cky-child-accordion-item\"> <div class=\"cky-child-accordion-chevron\"> <i class=\"cky-chevron-right\"></i> </div><div class=\"cky-child-accordion-header-wrapper\"> <button class=\"cky-child-accordion-btn\" aria-expanded=\"false\" aria-controls=\"[ITEM_ID]Body\" aria-label=\"[ITEM_NAME]\">[ITEM_NAME]</button> <div class=\"cky-switch-wrapper\"> [cky_iab_common_item_legitimate_toggle] [cky_iab_common_item_consent_toggle] </div></div></div><div class=\"cky-child-accordion-body\" id=\"[ITEM_ID]Body\"> <div class=\"cky-iab-ad-settings-details\"> <p class=\"cky-iab-ad-settings-details-des\">[USER_FRIENDLY_TEXT]</p>[cky_iab_purpose_n_features_item_illustration] [cky_iab_purpose_n_features_item_vendor_count] </div></div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item",
+     "content": {
+      "container": "<div class=\"cky-child-accordion\" id=\"[ITEM_ID]\"> <div class=\"cky-child-accordion-item\"> <div class=\"cky-child-accordion-chevron\"> <i class=\"cky-chevron-right\"></i> </div><div class=\"cky-child-accordion-header-wrapper\"> <button class=\"cky-child-accordion-btn\" aria-expanded=\"false\" aria-controls=\"[ITEM_ID]Body\" aria-label=\"[ITEM_NAME]\">[ITEM_NAME]</button> <div class=\"cky-switch-wrapper\"> [cky_iab_common_item_legitimate_toggle] [cky_iab_common_item_consent_toggle] </div></div></div><div class=\"cky-child-accordion-body\" id=\"[ITEM_ID]Body\"> <div class=\"cky-iab-ad-settings-details\"> <div class=\"cky-vendor-wrapper\"> <p class=\"cky-vendor-privacy-link\"> <span class=\"cky-vendor-privacy-link-title\" >[cky_iab_vendors_privacy_policy_link_subtitle]:</span >&nbsp; <a href=\"[PRIVACY_LINK]\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"[cky_iab_vendors_privacy_policy_link_subtitle]\" >[PRIVACY_LINK] <img class=\"external-link-img\" src=\"https://cdn-cookieyes.com/assets/images/external-link.svg\" alt=\"external link\"/></a > </p>[cky_iab_vendors_item_legitimate_interest] [cky_iab_vendors_item_data_retention] [cky_iab_vendors_item_purposes] [cky_iab_vendors_item_special_purposes] [cky_iab_vendors_item_features] [cky_iab_vendors_item_special_features] [cky_iab_vendors_item_data_categories] [cky_iab_vendors_item_device_overview] [cky_iab_vendors_item_table_button]</div></div></div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_purpose_n_features_section",
+     "content": {
+      "container": "<div class=\"cky-accordion\" id=\"[ITEM_ID]\"> <div class=\"cky-accordion-iab-item\"> <div class=\"cky-accordion-chevron\"> <i class=\"cky-chevron-right\"></i> </div><div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"> <button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"[ITEM_ID]Body\" aria-label=\"[cky_iab_purpose_n_features_{{sectionKey}}_title]\" > [cky_iab_purpose_n_features_{{sectionKey}}_title] [COUNT_DATA] </button> [cky_iab_purpose_n_features_section_toggle]</div></div></div><div class=\"cky-accordion-body\" id=\"[ITEM_ID]Body\"> [cky_iab_purpose_n_features_item] </div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_section",
+     "content": {
+      "container": "<div class=\"cky-accordion\" id=\"[ITEM_ID]\"> <div class=\"cky-accordion-iab-item\"> <div class=\"cky-accordion-chevron\"> <i class=\"cky-chevron-right\"></i> </div><div class=\"cky-accordion-header-wrapper\"> <div class=\"cky-accordion-header\"> <button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"[ITEM_ID]Body\" aria-label=\"[cky_iab_vendors_{{sectionKey}}_title]\" > [cky_iab_vendors_{{sectionKey}}_title] [COUNT_DATA] </button> [cky_iab_vendors_section_toggle] </div></div></div><div class=\"cky-accordion-body\" id=\"[ITEM_ID]Body\">[cky_iab_vendors_item]</div></div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    },
+    {
+     "key": "cky_iab_vendors_item_device_overview",
+     "content": {
+      "container": "<div class=\"cky-vendor-storage-overview-section\"> <p class=\"cky-vendor-storage-overview-title\"> [cky_iab_vendors_device_storage_overview_title] </p><ul class=\"cky-vendor-storage-overview-list\"> <li>[cky_iab_vendors_tracking_method_subtitle]:&nbsp;[COOKIE_STORAGE_METHOD]</li><li> [cky_iab_vendors_maximum_duration_of_cookies_subtitle]:&nbsp;[COOKIE_DAY_COUNT]&nbsp;[cky_iab_vendors_maximum_duration_of_cookies_unit] </li><li>[COOKIE_REFRESH_STATUS]</li></ul> </div>"
+     },
+     "uiTag": "",
+     "type": "iab-data",
+     "customTag": "",
+     "attributes": {}
+    }
+   ],
+   "activeLaw": "gdpr",
+   "showAuditTable": true,
    "showToggler": true,
-   "googleACMEnabled": false,
+   "googleACMEnabled": true,
    "readMore": {
-    "status": false,
+    "status": true,
     "styles": {
      "color": "#1863dc",
-     "border-color": "transparent",
+     "border-color": "TRANSPARENT",
      "background-color": "transparent"
     },
     "type": "link"
    },
    "togglerSwitch": {
-    "status": false,
+    "status": true,
     "styles": {
-     "activeColor": "rgb(254, 228, 92)",
+     "activeColor": "#FEE45C",
      "inactiveColor": "#d0d5d2"
     }
    },
    "togglerIABSwitch": {
-    "status": false,
+    "status": true,
     "styles": {
-     "activeColor": "#1863dc",
+     "activeColor": "#FEE45C",
      "inactiveColor": "#d0d5d2"
     }
    },
    "ccpaSwitch": {
-    "status": true,
+    "status": false,
     "styles": {
-     "activeColor": "#FEE45C",
+     "activeColor": "#1863dc",
      "inactiveColor": "#FFFFFF"
     }
    },
@@ -69506,23 +69737,23 @@
     }
    },
    "togglerIABTab": {
-    "status": false,
+    "status": true,
     "styles": {
      "activeColor": "#1863dc",
      "inactiveColor": "#757575"
     }
    },
-   "html": "<div class=\"cky-hide cky-overlay\"></div><div class=\"cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left\" data-cky-tag=\"revisit-consent\" data-tooltip=\"[cky_revisit_title]\" style=\"background-color: #0056a7;\"><button aria-label=\"[cky_revisit_title]\" class=\"cky-btn-revisit\" aria-controls=\"ckyPreferenceCenter\" aria-haspopup=\"dialog\"><img alt=\"Revisit consent button\" src=\"https://cdn-cookieyes.com/assets/images/revisit.svg\"></button></div><div class=\"cky-hide cky-consent-container cky-banner-bottom\" role=\"region\" aria-label=\"[cky_notice_title]\" tabindex=\"-1\"><div class=\"cky-consent-bar\" data-cky-tag=\"notice\" style=\"border-color: #f4f4f4; background-color: #FFFFFF;\"><button aria-label=\"[cky_notice_close_label]\" class=\"cky-banner-btn-close\" data-cky-tag=\"close-button\"><img alt=\"\" src=\"https://cdn-cookieyes.com/assets/images/close.svg\"></button><div class=\"cky-notice-content-wrapper\"><div class=\"cky-notice\"><div class=\"cky-notice-group\"><div><p class=\"cky-title\" data-cky-tag=\"title\" aria-level=\"2\" role=\"heading\" style=\"color: #212121;\">[cky_notice_title]</p><div class=\"cky-notice-des\" data-cky-tag=\"description\" style=\"color: #212121;\">[cky_notice_description]</div></div><div class=\"cky-notice-btn-wrapper\" data-cky-tag=\"notice-buttons\" role=\"group\">   <button class=\"cky-btn cky-btn-do-not-sell\" aria-label=\"[cky_donotsell_text]\" aria-haspopup=\"dialog\" aria-controls=\"ckyPreferenceCenter\" data-cky-tag=\"donotsell-button\" style=\"color: #1863dc; border-color: transparent; background-color: transparent;\">[cky_donotsell_text]</button></div></div></div></div><div style=\"padding:0 24px 12px 24px\"></div></div></div><div class=\"cky-modal\" tabindex=\"-1\"><div class=\"cky-preference-center\" data-cky-tag=\"optout-popup\" role=\"dialog\" aria-modal=\"true\" id=\"ckyPreferenceCenter\" aria-label=\"[cky_optout_title]\" style=\"color: #212121; border-color: #F4F4F4; background-color: #FFFFFF;\"><div class=\"cky-preference-header\"><span class=\"cky-preference-title\" aria-level=\"2\" data-cky-tag=\"optout-title\" role=\"heading\" style=\"color: #212121;\">[cky_optout_title]</span> <button aria-label=\"[cky_optout_close_label]\" class=\"cky-btn-close\" data-cky-tag=\"optout-close\"><img alt=\"\" src=\"https://cdn-cookieyes.com/assets/images/close.svg\"></button></div><div class=\"cky-preference-body-wrapper\"><div class=\"cky-preference-content-wrapper\" data-cky-tag=\"optout-description\" style=\"color: #212121;\">[cky_optout_description]</div><div class=\"cky-horizontal-separator\"></div><div class=\"cky-opt-out-wrapper\"><div class=\"cky-disabled cky-opt-out-checkbox-wrapper\" data-cky-tag=\"optout-option\"><input autocomplete=\"off\" class=\"cky-opt-out-checkbox\" data-cky-tag=\"optout-option-toggle\" id=\"ckyCCPAOptOut\" type=\"checkbox\"><div class=\"cky-opt-out-checkbox-label\" data-cky-tag=\"optout-option-title\" style=\"color: #212121;\">[cky_optout_option_title]</div></div><div class=\"cky-gpc-wrapper\" data-cky-tag=\"optout-gpc-option\"><div class=\"cky-gpc-desc\" data-cky-tag=\"optout-gpc-option-description\" style=\"color: #212121;\">[cky_optout_gpc_description]</div></div></div></div><div class=\"cky-footer-wrapper\"><div class=\"cky-optout-action-area\" data-cky-tag=\"optout-action-area\"><div class=\"cky-opt-out-btn-wrapper\" data-cky-tag=\"optout-buttons\" role=\"group\"><button aria-label=\"[cky_optout_cancel_text]\" class=\"cky-btn cky-btn-cancel\" data-cky-tag=\"optout-cancel-button\" style=\"color: #595959; border-color: #949494; background-color: #FFFFFF;\">[cky_optout_cancel_text]</button> <button aria-label=\"[cky_optout_confirm_text]\" class=\"cky-btn cky-btn-confirm\" data-cky-tag=\"optout-confirm-button\" style=\"color: #000000; border-color: #FEE45C; background-color: #FEE45C;\">[cky_optout_confirm_text]</button></div><div class=\"cky-hide cky-optout-success\" data-cky-tag=\"optout-success\" role=\"status\" tabindex=\"-1\" style=\"border-color: inherit; background-color: #E5F4EF;\"><div class=\"cky-optout-success-inner\"><div class=\"cky-optout-success-row\"><div class=\"cky-optout-success-icon\" data-cky-tag=\"optout-success-icon\" aria-hidden=\"true\" style=\"color: #00754E; border-color: transparent; background-color: transparent;\"><svg fill=\"none\" height=\"20\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.3333 9.23355V10.0002C18.3323 11.7972 17.7504 13.5458 16.6744 14.9851C15.5984 16.4244 14.086 17.4773 12.3628 17.9868C10.6395 18.4963 8.79768 18.4351 7.11202 17.8124C5.42636 17.1896 3.98717 16.0386 3.00909 14.5311C2.03101 13.0236 1.56645 11.2403 1.68469 9.44714C1.80293 7.65402 2.49763 5.94715 3.66519 4.58111C4.83275 3.21506 6.41061 2.26303 8.16345 1.867C9.91629 1.47097 11.7502 1.65216 13.3916 2.38355M18.3333 3.33355L9.99996 11.6752L7.49996 9.17521\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></path></svg></div><div class=\"cky-optout-success-text\" data-cky-tag=\"optout-success-text\" style=\"color: #14142A;\">[cky_optout_success_text]</div></div><div class=\"cky-optout-success-subtext-wrapper\"><p class=\"cky-optout-success-subtext\" data-cky-tag=\"optout-success-subtext\" style=\"color: #4E4B66;\">[cky_optout_success_subtext]</p></div></div></div></div><div style=\"padding-bottom:12px;display:flex;justify-content:center;align-items:center\"></div></div></div></div>",
-   "css": "<style id=\"cky-style\">.cky-overlay{background:#000;opacity:.4;position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999999}.cky-hide{display:none}.cky-btn-revisit-wrapper{display:flex;align-items:center;justify-content:center;background:#0056a7;width:45px;height:45px;border-radius:50%;position:fixed;z-index:999999;cursor:pointer}.cky-revisit-bottom-left{bottom:15px;left:15px}.cky-revisit-bottom-right{bottom:15px;right:15px}.cky-btn-revisit-wrapper .cky-btn-revisit{display:flex;align-items:center;justify-content:center;background:none;border:none;cursor:pointer;position:relative;margin:0;padding:0}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width:fit-content;margin:0;height:30px;width:30px}.cky-revisit-bottom-left:hover::before{content:attr(data-tooltip);position:absolute;background:#4e4b66;color:#fff;left:calc(100% + 7px);font-size:12px;line-height:16px;width:max-content;padding:4px 8px;border-radius:4px}.cky-revisit-bottom-left:hover::after{position:absolute;content:\"\";border:5px solid #fff0;left:calc(100% + 2px);border-left-width:0;border-right-color:#4e4b66}.cky-revisit-bottom-right:hover::before{content:attr(data-tooltip);position:absolute;background:#4e4b66;color:#fff;right:calc(100% + 7px);font-size:12px;line-height:16px;width:max-content;padding:4px 8px;border-radius:4px}.cky-revisit-bottom-right:hover::after{position:absolute;content:\"\";border:5px solid #fff0;right:calc(100% + 2px);border-right-width:0;border-left-color:#4e4b66}.cky-revisit-hide{display:none}.cky-consent-container{position:fixed;width:100%;box-sizing:border-box;z-index:9999999}.cky-consent-container .cky-consent-bar{background:#fff;border:1px solid;box-shadow:0 -1px 10px 0 #acabab4d}.cky-banner-bottom{bottom:0;left:0}.cky-banner-top{top:0;left:0}.cky-consent-bar .cky-notice-content-wrapper{padding:24px 24px 12px 24px}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width:100px;height:auto;margin:0 0 12px 0}.cky-notice .cky-title{color:#212121;font-weight:700;font-size:18px;line-height:24px;margin:0 0 12px 0;overflow-wrap:break-word}.cky-notice-group{display:flex;justify-content:space-between;align-items:center;font-size:14px;line-height:24px;font-weight:400}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-dma-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size:14px}.cky-notice-des{color:#212121;font-size:14px;line-height:24px;font-weight:400}.cky-notice-des img{min-height:25px;min-width:25px}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color:inherit;margin-top:0;word-break:break-word}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom:0}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy,.cky-notice-des a.cky-link-default,.cky-dma-content-wrapper a.cky-policy,.cky-dma-content-wrapper button.cky-policy{font-size:14px;color:#1863dc;white-space:nowrap;cursor:pointer;background:#fff0}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy,.cky-dma-content-wrapper a.cky-policy,.cky-dma-content-wrapper button.cky-policy{text-decoration:underline;border:1px solid}.cky-notice-des a.cky-link-default{text-decoration:underline}.cky-notice-des button.cky-policy,.cky-dma-content-wrapper button.cky-policy{padding:0}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-dma-content-wrapper a.cky-policy:focus-visible,.cky-dma-content-wrapper button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,[data-cky-tag=\"powered-by\"] a:focus-visible,[data-cky-tag=\"detail-powered-by\"] a:focus-visible,.cky-btn:focus-visible{outline:2px solid #1863dc;outline-offset:2px}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline:0}button.cky-show-desc-btn:not(:hover):not(:active){color:#1863dc;background:#fff0}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active){background:#fff0}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration:none}.cky-notice-btn-wrapper{display:flex;justify-content:center;align-items:center;margin-left:15px}.cky-notice-btn-wrapper .cky-btn{text-shadow:none;box-shadow:none}.cky-btn{font-size:14px;font-family:inherit;line-height:24px;padding:8px 27px;font-weight:500;margin:0 8px 0 0;border-radius:2px;white-space:nowrap;cursor:pointer;text-align:center;text-transform:none;min-height:0;overflow-wrap:break-word}.cky-btn:hover{filter:brightness(.9)}.cky-btn-customize{color:#1863dc;background:#fff0;border:2px solid #1863dc}.cky-btn-reject{color:#1863dc;background:#fff0;border:2px solid #1863dc}.cky-btn-accept{background:#1863dc;color:#fff;border:2px solid #1863dc}.cky-btn:last-child{margin-right:0}@media (max-width:768px){.cky-notice-group{display:block}.cky-notice-btn-wrapper{margin-left:0}.cky-notice-btn-wrapper .cky-btn{flex:auto;max-width:100%;margin-top:10px;white-space:unset}}@media (max-width:576px){.cky-notice-btn-wrapper{flex-direction:column}.cky-custom-brand-logo-wrapper,.cky-notice .cky-title,.cky-notice-des,.cky-notice-btn-wrapper{padding:0 28px}.cky-consent-container .cky-consent-bar .cky-notice-content-wrapper{padding:24px 0 12px 0}.cky-notice-des{max-height:40vh;overflow-y:scroll}.cky-notice-btn-wrapper .cky-btn{width:100%;padding:8px;margin-right:0}.cky-notice-btn-wrapper .cky-btn-accept{order:1}.cky-notice-btn-wrapper .cky-btn-reject{order:3}.cky-notice-btn-wrapper .cky-btn-customize{order:2}}@media (max-width:425px){.cky-custom-brand-logo-wrapper,.cky-notice .cky-title,.cky-notice-des,.cky-notice-btn-wrapper{padding:0 24px}.cky-notice-btn-wrapper{flex-direction:column}.cky-btn{width:100%;margin:10px 0 0 0}.cky-notice-btn-wrapper .cky-btn-customize{order:2}.cky-notice-btn-wrapper .cky-btn-reject{order:3}.cky-notice-btn-wrapper .cky-btn-accept{order:1;margin-top:16px}}@media (max-width:352px){.cky-notice .cky-title{font-size:16px}.cky-notice-des *{font-size:12px}.cky-notice-des,.cky-btn{font-size:12px}}.cky-modal.cky-modal-open{display:flex;visibility:visible;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%);transform:translate(-50%,-50%);top:50%;left:50%;transition:all 1s ease;max-height:100%}.cky-modal{box-shadow:0 32px 68px rgb(0 0 0 / .3);margin:0 auto;position:fixed;max-width:100%;background:#fff;top:50%;box-sizing:border-box;border-radius:6px;z-index:999999999;color:#212121;-webkit-transform:translate(-50%,100%);-moz-transform:translate(-50%,100%);-ms-transform:translate(-50%,100%);-o-transform:translate(-50%,100%);transform:translate(-50%,100%);visibility:hidden;transition:all 0s ease}.cky-preference-center{max-height:79vh;overflow:hidden;width:845px;overflow:hidden;flex:1 1 0%;display:flex;flex-direction:column;border-radius:6px}.cky-preference-header{display:flex;align-items:center;justify-content:space-between;padding:24px 24px 22px 24px;border-bottom:1px solid}.cky-preference-header .cky-preference-title{font-size:18px;font-weight:700;line-height:24px;word-break:break-word}.cky-preference-header .cky-btn-close{margin:0;cursor:pointer;vertical-align:middle;padding:0;background:none;border:none;width:24px;height:24px;min-height:0;line-height:0;text-shadow:none;box-shadow:none}.cky-preference-header .cky-btn-close img{margin:0;height:10px;width:10px}.cky-preference-body-wrapper{padding:0 24px;flex:1;overflow:auto;box-sizing:border-box}@media (max-height:576px){.cky-preference-center{height:100vh;overflow:auto}.cky-preference-center .cky-preference-body-wrapper{overflow:unset}}@media (max-height:480px){.cky-consent-container{max-height:100vh;overflow-y:scroll}.cky-notice-des{max-height:unset;overflow-y:unset}}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size:14px;line-height:24px;font-weight:400;padding:12px 0}.cky-preference-content-wrapper img{min-height:25px;min-width:25px}.cky-preference-content-wrapper .cky-show-desc-btn{font-size:14px;font-family:inherit;color:#1863dc;text-decoration:underline;line-height:24px;padding:0;margin:0;white-space:nowrap;cursor:pointer;background:#fff0;border-color:#fff0;text-transform:none;min-height:0;text-shadow:none;box-shadow:none}.cky-accordion-wrapper{margin-bottom:10px}.cky-accordion{border-bottom:1px solid}.cky-accordion:last-child{border-bottom:none}.cky-accordion .cky-accordion-item{display:flex;margin-top:10px}.cky-accordion .cky-accordion-body{display:none}.cky-accordion.cky-accordion-active .cky-accordion-body{display:block;padding:0 22px;margin-bottom:16px}.cky-accordion-header-wrapper{cursor:pointer;width:100%}.cky-accordion-item .cky-accordion-header{display:flex;justify-content:space-between;align-items:center}.cky-accordion-header .cky-accordion-btn{font-size:16px;font-family:inherit;color:#212121;line-height:24px;background:none;border:none;font-weight:700;padding:0;margin:0;cursor:pointer;text-transform:none;min-height:0;text-shadow:none;box-shadow:none}.cky-accordion-header .cky-always-active{color:green;font-weight:600;line-height:24px;font-size:14px}.cky-accordion-header-des{font-size:14px;line-height:24px;margin:10px 0 16px 0}.cky-accordion-chevron{margin-right:22px;position:relative;cursor:pointer}.cky-accordion-chevron-hide{display:none}.cky-accordion .cky-accordion-chevron i::before{content:\"\";position:absolute;border-right:1.4px solid;border-bottom:1.4px solid;border-color:inherit;height:6px;width:6px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);transition:all 0.2s ease-in-out;top:8px}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.cky-audit-table{background:#f4f4f4;border-radius:6px}.cky-audit-table .cky-empty-cookies-text{color:inherit;font-size:12px;line-height:24px;margin:0;padding:10px;word-break:break-word}.cky-audit-table .cky-cookie-des-table{font-size:12px;line-height:24px;font-weight:400;padding:15px 10px;border-bottom:1px solid;border-bottom-color:inherit;margin:0}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom:none}.cky-audit-table .cky-cookie-des-table li{list-style-type:none;display:flex;padding:3px 0}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top:0}.cky-cookie-des-table li div:first-child{width:100px;font-weight:600;word-break:break-word;word-wrap:break-word}.cky-cookie-des-table li div:last-child{flex:1;word-break:break-word;word-wrap:break-word;margin-left:8px}.cky-footer-shadow{display:block;width:100%;height:40px;background:linear-gradient(180deg,#fff0 0%,#ffffff 100%);position:absolute;bottom:calc(100% - 1px)}.cky-footer-wrapper{position:relative}.cky-prefrence-btn-wrapper{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;padding:22px 24px 12px 24px;border-top:1px solid;gap:8px}.cky-prefrence-btn-wrapper .cky-btn{flex:auto;max-width:100%;text-shadow:none;box-shadow:none;margin:0;white-space:unset;overflow-wrap:break-word}.cky-btn-preferences{color:#1863dc;background:#fff0;border:2px solid #1863dc}.cky-preference-header,.cky-preference-body-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color:inherit}.cky-preference-body-wrapper .cky-dma-content-wrapper{font-size:14px;line-height:24px;font-weight:400;padding:4px 0 12px}.cky-preference-body-wrapper .cky-dma-content-wrapper p{color:inherit;word-break:break-word}.cky-preference-body-wrapper .cky-dma-content-wrapper p:first-child{margin-top:0}.cky-preference-body-wrapper .cky-dma-content-wrapper p:last-child{margin-bottom:0}.cky-preference-body-wrapper .cky-horizontal-separator{border-bottom:1px solid;border-color:inherit}@media (max-width:845px){.cky-modal{max-width:calc(100% - 16px)}}@media (max-width:576px){.cky-modal{max-width:100%}.cky-preference-center{max-height:100vh}.cky-prefrence-btn-wrapper{flex-direction:column}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right:0}.cky-prefrence-btn-wrapper .cky-btn{width:100%;margin:10px 0 0 0}.cky-prefrence-btn-wrapper .cky-btn-reject{order:3}.cky-prefrence-btn-wrapper .cky-btn-accept{order:1;margin-top:0}.cky-prefrence-btn-wrapper .cky-btn-preferences{order:2}}@media (max-width:425px){.cky-accordion-chevron{margin-right:15px}.cky-notice-btn-wrapper{margin-top:0}.cky-accordion.cky-accordion-active .cky-accordion-body{padding:0 15px}}@media (max-width:352px){.cky-preference-header .cky-preference-title{font-size:16px}.cky-preference-header{padding:16px 24px}.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-dma-content-wrapper *{font-size:12px}.cky-preference-content-wrapper,.cky-preference-body-wrapper .cky-dma-content-wrapper,.cky-preference-content-wrapper .cky-show-more,.cky-accordion-header .cky-always-active,.cky-accordion-header-des,.cky-preference-content-wrapper .cky-show-desc-btn,.cky-notice-des a.cky-policy,.cky-dma-content-wrapper a.cky-policy{font-size:12px}.cky-accordion-header .cky-accordion-btn{font-size:14px}}.cky-switch{display:flex}.cky-switch input[type=\"checkbox\"]{position:relative;width:44px;height:24px;margin:0;background:#d0d5d2;-webkit-appearance:none;border-radius:50px;cursor:pointer;outline:0;border:none;top:0}.cky-switch input[type=\"checkbox\"]:checked{background:#1863dc}.cky-switch input[type=\"checkbox\"]:before{position:absolute;content:\"\";height:20px;width:20px;left:2px;bottom:2px;border-radius:50%;background-color:#fff;-webkit-transition:0.4s;transition:0.4s;margin:0}.cky-switch input[type=\"checkbox\"]:after{display:none}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform:translateX(20px);-ms-transform:translateX(20px);transform:translateX(20px)}@media (max-width:425px){.cky-switch input[type=\"checkbox\"]{width:38px;height:21px}.cky-switch input[type=\"checkbox\"]:before{height:17px;width:17px}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform:translateX(17px);-ms-transform:translateX(17px);transform:translateX(17px)}}.cky-consent-bar .cky-banner-btn-close{z-index:1;position:absolute;right:9px;top:5px;background:none;border:none;cursor:pointer;padding:0;margin:0;min-height:0;line-height:0;height:24px;width:24px;text-shadow:none;box-shadow:none}.cky-consent-bar .cky-banner-btn-close img{height:9px;width:9px;margin:0}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size:14px;line-height:24px;padding:6px 0;margin:0;font-weight:500;background:none;border-radius:2px;border:none;white-space:nowrap;cursor:pointer;text-align:left;color:#1863dc;background:#fff0;border-color:#fff0;box-shadow:none;text-shadow:none;text-decoration:underline}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline:2px solid #1863dc;outline-offset:2px}@media (max-width:768px){.cky-notice-btn-wrapper{margin-left:0;margin-top:10px;justify-content:left}.cky-notice-btn-wrapper .cky-btn-do-not-sell{padding:0}}@media (max-width:352px){.cky-notice-btn-wrapper .cky-btn-do-not-sell,.cky-notice-des a.cky-policy,.cky-notice-des a.cky-link-default{font-size:12px}}.cky-opt-out-wrapper{padding:12px 0}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display:flex;align-items:center}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size:16px;font-weight:700;line-height:24px;margin:0 0 0 12px;cursor:pointer;word-break:break-word}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color:#fff;border:1px solid #000;width:20px;height:18.5px;margin:0;-webkit-appearance:none;position:relative;display:flex;align-items:center;justify-content:center;border-radius:2px;cursor:pointer}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color:#1863dc;border:none}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left:6px;bottom:4px;width:7px;height:13px;border:solid #fff;border-width:0 3px 3px 0;border-radius:2px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);content:\"\";position:absolute;box-sizing:border-box}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor:no-drop}.cky-gpc-wrapper{margin:0 0 0 32px}.cky-footer-wrapper .cky-optout-action-area{padding:0 24px 22px 24px;box-sizing:border-box}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;padding-top:22px}.cky-opt-out-btn-wrapper .cky-btn{flex:auto;max-width:100%;text-shadow:none;box-shadow:none}.cky-opt-out-btn-wrapper .cky-btn-cancel{border:1px solid #dedfe0;background:#fff0;color:#858585}.cky-opt-out-btn-wrapper .cky-btn-confirm{background:#1863dc;color:#fff;border:1px solid #1863dc}.cky-optout-success{border-radius:8px;padding:8px 12px;margin:0 auto;box-sizing:border-box;outline:none}.cky-optout-success .cky-optout-success-inner{display:flex;flex-direction:column;gap:4px}.cky-optout-success .cky-optout-success-row{display:flex;align-items:flex-start}.cky-optout-success .cky-optout-success-icon{width:20px;flex-shrink:0}.cky-optout-success .cky-optout-success-text{margin-inline-start:8px;margin-top:1px;font-weight:400;font-size:13px;line-height:20px}.cky-optout-success .cky-optout-success-text p{margin:0}.cky-optout-success .cky-optout-success-subtext{margin:0;font-weight:400;font-size:12px;line-height:20px}@media (max-width:352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size:14px}.cky-gpc-wrapper .cky-gpc-desc,.cky-gpc-wrapper .cky-gpc-desc *{font-size:12px}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width:16px;height:16px}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left:5px;bottom:4px;width:3px;height:9px}.cky-gpc-wrapper{margin:0 0 0 28px}}.video-placeholder-youtube{background-size:100% 100%;background-position:center;background-repeat:no-repeat;background-color:#b2b0b059;position:relative;display:flex;align-items:center;justify-content:center;max-width:100%}.video-placeholder-text-youtube{text-align:center;align-items:center;padding:10px 16px;background-color:#000c;color:#fff;border:1px solid;border-radius:2px;cursor:pointer}.video-placeholder-normal{background-image:url(https://cdn-cookieyes.com/assets/images/cky-placeholder.svg);background-size:80px;background-position:center;background-repeat:no-repeat;background-color:#b2b0b059;position:relative;display:flex;align-items:flex-end;justify-content:center;max-width:100%}.video-placeholder-text-normal{align-items:center;padding:10px 16px;text-align:center;border:1px solid;border-radius:2px;cursor:pointer}.cky-rtl{direction:rtl;text-align:right}.cky-rtl .cky-banner-btn-close{left:9px;right:auto}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right:8px}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right:0}.cky-rtl .cky-notice-btn-wrapper{margin-left:0;margin-right:15px}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right:8px}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right:0}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border:none;border-left:1.4px solid;border-top:1.4px solid;left:12px}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform:rotate(-135deg);-moz-transform:rotate(-135deg);-ms-transform:rotate(-135deg);-o-transform:rotate(-135deg);transform:rotate(-135deg)}@media (max-width:768px){.cky-rtl .cky-notice-btn-wrapper{margin-right:0}}@media (max-width:576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right:0}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right:0}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding:0 22px 0 0}}@media (max-width:425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding:0 15px 0 0}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right:12px}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right:0}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin:0 12px 0 0}[data-cky-tag=\"powered-by\"]{justify-content:flex-end}[data-cky-tag=\"powered-by\"] div,[data-cky-tag=\"detail-powered-by\"],[data-cky-tag=\"optout-powered-by\"]{opacity:.7}[data-cky-tag=\"powered-by\"] div:hover,[data-cky-tag=\"detail-powered-by\"]:hover,[data-cky-tag=\"optout-powered-by\"]:hover{opacity:1}@media (max-width:768px){[data-cky-tag=\"powered-by\"]{justify-content:center;margin-top:8px}}.cky-preference-header .cky-preference-title{margin:0;padding:0}.cky-accordion-heading{margin:0;padding:0;font:inherit;color:inherit;display:block}@media (max-width:480px){.cky-btn-revisit-wrapper{width:36px;height:36px}.cky-btn-revisit-wrapper .cky-btn-revisit img{height:22px;width:22px}.cky-revisit-bottom-left{bottom:8px;left:8px}.cky-revisit-bottom-right{bottom:8px;right:8px}} </style>",
+   "html": "<div class=\"cky-hide cky-overlay\"></div><div class=\"cky-btn-revisit-wrapper cky-revisit-hide cky-revisit-bottom-left\" data-cky-tag=\"revisit-consent\" data-tooltip=\"[cky_revisit_title]\" style=\"background-color: #0056a7;\"><button aria-label=\"[cky_revisit_title]\" class=\"cky-btn-revisit\" aria-controls=\"ckyPreferenceCenter\" aria-haspopup=\"dialog\"><img alt=\"Revisit consent button\" src=\"https://cdn-cookieyes.com/assets/images/revisit.svg\"></button></div><div class=\"cky-hide cky-consent-container cky-banner-bottom\" role=\"region\" aria-label=\"[cky_notice_title]\" tabindex=\"-1\"><div class=\"cky-consent-bar\" data-cky-tag=\"notice\" style=\"border-color: #f4f4f4; background-color: #FFFFFF;\"><div class=\"cky-notice-content-wrapper\"><div class=\"cky-notice\"><div class=\"cky-notice-group\"><div><p class=\"cky-title\" data-cky-tag=\"title\" aria-level=\"2\" role=\"heading\" style=\"color: #212121;\">[cky_notice_title]</p><div class=\"cky-notice-des\" data-cky-tag=\"iab-description\" style=\"color: #212121;\">[cky_iab_notice_description]</div></div><div class=\"cky-notice-btn-wrapper\" data-cky-tag=\"notice-buttons\" role=\"group\"><button class=\"cky-btn cky-btn-customize\" aria-label=\"[cky_settings_text]\" aria-haspopup=\"dialog\" aria-controls=\"ckyPreferenceCenter\" data-cky-tag=\"settings-button\" style=\"color: #000000; border-color: #FEE45C; background-color: TRANSPARENT;\">[cky_settings_text]</button> <button class=\"cky-btn cky-btn-reject\" aria-label=\"[cky_reject_text]\" data-cky-tag=\"reject-button\" style=\"color: #000000; border-color: #FEE45C; background-color: #FEE45C;\">[cky_reject_text]</button> <button class=\"cky-btn cky-btn-accept\" aria-label=\"[cky_accept_text]\" data-cky-tag=\"accept-button\" style=\"color: #000000; border-color: #FEE45C; background-color: #FEE45C;\">[cky_accept_text]</button> </div></div></div></div><div style=\"padding:0 24px 12px 24px\"></div></div></div><div class=\"cky-modal\" tabindex=\"-1\"><div class=\"cky-preference-center\" data-cky-tag=\"detail\" role=\"dialog\" aria-modal=\"true\" id=\"ckyPreferenceCenter\" aria-labelledby=\"ckyPreferenceTitle\" style=\"color: #212121; border-color: #F4F4F4; background-color: #FFFFFF;\"><div class=\"cky-preference-header\"><span class=\"cky-preference-title\" aria-level=\"2\" data-cky-tag=\"detail-title\" role=\"heading\" id=\"ckyPreferenceTitle\" style=\"color: #212121;\">[cky_preference_title]</span> <button aria-label=\"[cky_preference_close_label]\" class=\"cky-btn-close\" data-cky-tag=\"detail-close\"><img alt=\"\" src=\"https://cdn-cookieyes.com/assets/images/close.svg\"></button></div><div class=\"cky-iab-detail-wrapper\" data-cky-tag=\"detail-iab-option\"><div class=\"cky-iab-preference-des\" data-cky-tag=\"detail-iab-description\" style=\"color: #212121;\">[cky_iab_preference_description]</div><div class=\"cky-iab-navbar-wrapper\"><ul class=\"cky-iab-navbar\"><li class=\"cky-iab-nav-item cky-iab-nav-item-active\" id=\"ckyIABTabCookie\"><button aria-label=\"[cky_iab_nav_item_cookie_categories]\" class=\"cky-iab-nav-btn\">[cky_iab_nav_item_cookie_categories]</button></li><li class=\"cky-iab-nav-item\" id=\"ckyIABTabPurpose\"><button aria-label=\"[cky_iab_nav_item_purposes_n_features]\" class=\"cky-iab-nav-btn\">[cky_iab_nav_item_purposes_n_features]</button></li><li class=\"cky-iab-nav-item\" id=\"ckyIABTabVendor\"><button aria-label=\"[cky_iab_nav_item_vendors]\" class=\"cky-iab-nav-btn\">[cky_iab_nav_item_vendors]</button></li></ul></div><div class=\"cky-iab-detail-sub-wrapper\"><div class=\"cky-preference-body-wrapper\" id=\"ckyIABSectionCookie\"><p class=\"cky-iab-detail-title\">[cky_iab_nav_item_cookie_categories]</p><div class=\"cky-preference-content-wrapper\" data-cky-tag=\"detail-description\" style=\"color: #212121;\">[cky_preference_description]</div><div class=\"cky-dma-content-wrapper\" data-cky-tag=\"detail-dma-description\" style=\"color: #212121;\">[cky_preference_dma_description]</div><div class=\"cky-horizontal-separator\"></div><div class=\"cky-accordion-wrapper\" data-cky-tag=\"detail-categories\"><div class=\"cky-accordion\" id=\"ckyDetailCategorynecessary\"><div class=\"cky-accordion-item\"><div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div><div class=\"cky-accordion-header-wrapper\"><div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"ckyDetailCategorynecessaryBody\" aria-label=\"[cky_preference_necessary_title]\" data-cky-tag=\"detail-category-title\" style=\"color: #212121;\">[cky_preference_necessary_title]</button><span class=\"cky-always-active\" data-cky-tag=\"always-active\" style=\"color: #008000;\">[cky_preference_always_enabled]</span></div><div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color: #212121;\">[cky_preference_necessary_description]</div></div></div><div class=\"cky-accordion-body\" id=\"ckyDetailCategorynecessaryBody\"><div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\"></div></div></div><div class=\"cky-accordion\" id=\"ckyDetailCategoryfunctional\"><div class=\"cky-accordion-item\"><div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div><div class=\"cky-accordion-header-wrapper\"><div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"ckyDetailCategoryfunctionalBody\" aria-label=\"[cky_preference_functional_title]\" data-cky-tag=\"detail-category-title\" style=\"color: #212121;\">[cky_preference_functional_title]</button><div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" role=\"switch\" id=\"ckySwitchfunctional\" aria-label=\"[cky_category_toggle_label]\" autocomplete=\"off\"></div></div><div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color: #212121;\">[cky_preference_functional_description]</div></div></div><div class=\"cky-accordion-body\" id=\"ckyDetailCategoryfunctionalBody\"><div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\"></div></div></div><div class=\"cky-accordion\" id=\"ckyDetailCategoryanalytics\"><div class=\"cky-accordion-item\"><div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div><div class=\"cky-accordion-header-wrapper\"><div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"ckyDetailCategoryanalyticsBody\" aria-label=\"[cky_preference_analytics_title]\" data-cky-tag=\"detail-category-title\" style=\"color: #212121;\">[cky_preference_analytics_title]</button><div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" role=\"switch\" id=\"ckySwitchanalytics\" aria-label=\"[cky_category_toggle_label]\" autocomplete=\"off\"></div></div><div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color: #212121;\">[cky_preference_analytics_description]</div></div></div><div class=\"cky-accordion-body\" id=\"ckyDetailCategoryanalyticsBody\"><div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\"></div></div></div><div class=\"cky-accordion\" id=\"ckyDetailCategoryperformance\"><div class=\"cky-accordion-item\"><div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div><div class=\"cky-accordion-header-wrapper\"><div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"ckyDetailCategoryperformanceBody\" aria-label=\"[cky_preference_performance_title]\" data-cky-tag=\"detail-category-title\" style=\"color: #212121;\">[cky_preference_performance_title]</button></div><div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color: #212121;\">[cky_preference_performance_description]</div></div></div><div class=\"cky-accordion-body\" id=\"ckyDetailCategoryperformanceBody\"><div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\"></div></div></div><div class=\"cky-accordion\" id=\"ckyDetailCategoryadvertisement\"><div class=\"cky-accordion-item\"><div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div><div class=\"cky-accordion-header-wrapper\"><div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"ckyDetailCategoryadvertisementBody\" aria-label=\"[cky_preference_advertisement_title]\" data-cky-tag=\"detail-category-title\" style=\"color: #212121;\">[cky_preference_advertisement_title]</button><div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" role=\"switch\" id=\"ckySwitchadvertisement\" aria-label=\"[cky_category_toggle_label]\" autocomplete=\"off\"></div></div><div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color: #212121;\">[cky_preference_advertisement_description]</div></div></div><div class=\"cky-accordion-body\" id=\"ckyDetailCategoryadvertisementBody\"><div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\"></div></div></div><div class=\"cky-accordion\" id=\"ckyDetailCategoryother\"><div class=\"cky-accordion-item\"><div class=\"cky-accordion-chevron\"><i class=\"cky-chevron-right\"></i></div><div class=\"cky-accordion-header-wrapper\"><div class=\"cky-accordion-header\"><button class=\"cky-accordion-btn\" aria-expanded=\"false\" aria-controls=\"ckyDetailCategoryotherBody\" aria-label=\"[cky_preference_other_title]\" data-cky-tag=\"detail-category-title\" style=\"color: #212121;\">[cky_preference_other_title]</button><div class=\"cky-switch\" data-cky-tag=\"detail-category-toggle\"><input type=\"checkbox\" role=\"switch\" id=\"ckySwitchother\" aria-label=\"[cky_category_toggle_label]\" autocomplete=\"off\"></div></div><div class=\"cky-accordion-header-des\" data-cky-tag=\"detail-category-description\" style=\"color: #212121;\">[cky_preference_other_description]</div></div></div><div class=\"cky-accordion-body\" id=\"ckyDetailCategoryotherBody\"><div class=\"cky-audit-table\" data-cky-tag=\"audit-table\" style=\"color: #212121; border-color: #ebebeb; background-color: #f4f4f4;\"></div></div></div></div></div><div class=\"cky-preference-body-wrapper cky-hide-ad-settings\" id=\"ckyIABSectionPurpose\"><p class=\"cky-iab-detail-title\">[cky_iab_nav_item_purposes_n_features]</p><div class=\"cky-accordion-wrapper\">[cky_iab_purpose_n_features_section]</div></div><div class=\"cky-preference-body-wrapper cky-hide-ad-settings\" id=\"ckyIABSectionVendor\"><p class=\"cky-iab-detail-title\">[cky_iab_nav_item_vendors]</p><div class=\"cky-accordion-wrapper\">[cky_iab_vendors_section]</div></div></div></div><div class=\"cky-footer-wrapper\"><span class=\"cky-footer-shadow\" style=\"background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);\"></span><div class=\"cky-prefrence-btn-wrapper\" data-cky-tag=\"detail-buttons\" role=\"group\"><button aria-label=\"[cky_preference_reject_text]\" class=\"cky-btn cky-btn-reject\" data-cky-tag=\"detail-reject-button\" style=\"color: #000000; border-color: #FEE45C; background-color: #FEE45C;\">[cky_preference_reject_text]</button> <button aria-label=\"[cky_preference_save_text]\" class=\"cky-btn cky-btn-preferences\" data-cky-tag=\"detail-save-button\" style=\"color: #000000; border-color: #FEE45C; background-color: #FEE45C;\">[cky_preference_save_text]</button> <button aria-label=\"[cky_preference_accept_text]\" class=\"cky-btn cky-btn-accept\" data-cky-tag=\"detail-accept-button\" style=\"color: #000000; border-color: #FEE45C; background-color: #FEE45C;\">[cky_preference_accept_text]</button></div><div style=\"padding-bottom:12px;display:flex;justify-content:center;align-items:center\"></div></div></div></div>",
+   "css": "<style id=\"cky-style\">.cky-overlay{background:#000;opacity:.4;position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999999}.cky-hide{display:none}.cky-btn-revisit-wrapper{display:flex;align-items:center;justify-content:center;background:#0056a7;width:45px;height:45px;border-radius:50%;position:fixed;z-index:999999;cursor:pointer}.cky-revisit-bottom-left{bottom:15px;left:15px}.cky-revisit-bottom-right{bottom:15px;right:15px}.cky-btn-revisit-wrapper .cky-btn-revisit{display:flex;align-items:center;justify-content:center;background:none;border:none;cursor:pointer;position:relative;margin:0;padding:0}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width:fit-content;margin:0;height:30px;width:30px}.cky-revisit-bottom-left:hover::before{content:attr(data-tooltip);position:absolute;background:#4e4b66;color:#fff;left:calc(100% + 7px);font-size:12px;line-height:16px;width:max-content;padding:4px 8px;border-radius:4px}.cky-revisit-bottom-left:hover::after{position:absolute;content:\"\";border:5px solid #fff0;left:calc(100% + 2px);border-left-width:0;border-right-color:#4e4b66}.cky-revisit-bottom-right:hover::before{content:attr(data-tooltip);position:absolute;background:#4e4b66;color:#fff;right:calc(100% + 7px);font-size:12px;line-height:16px;width:max-content;padding:4px 8px;border-radius:4px}.cky-revisit-bottom-right:hover::after{position:absolute;content:\"\";border:5px solid #fff0;right:calc(100% + 2px);border-right-width:0;border-left-color:#4e4b66}.cky-revisit-hide{display:none}.cky-consent-container{position:fixed;width:100%;box-sizing:border-box;z-index:9999999}.cky-consent-container .cky-consent-bar{background:#fff;border:1px solid;box-shadow:0 -1px 10px 0 #acabab4d}.cky-banner-bottom{bottom:0;left:0}.cky-banner-top{top:0;left:0}.cky-consent-bar .cky-notice-content-wrapper{padding:24px 24px 12px 24px}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width:100px;height:auto;margin:0 0 12px 0}.cky-notice .cky-title{color:#212121;font-weight:700;font-size:18px;line-height:24px;margin:0 0 12px 0;overflow-wrap:break-word}.cky-notice-group{display:flex;justify-content:space-between;align-items:center;font-size:14px;line-height:24px;font-weight:400}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-dma-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size:14px}.cky-notice-des{color:#212121;font-size:14px;line-height:24px;font-weight:400}.cky-notice-des img{min-height:25px;min-width:25px}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color:inherit;margin-top:0;word-break:break-word}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom:0}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy,.cky-notice-des a.cky-link-default,.cky-dma-content-wrapper a.cky-policy,.cky-dma-content-wrapper button.cky-policy{font-size:14px;color:#1863dc;white-space:nowrap;cursor:pointer;background:#fff0}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy,.cky-dma-content-wrapper a.cky-policy,.cky-dma-content-wrapper button.cky-policy{text-decoration:underline;border:1px solid}.cky-notice-des a.cky-link-default{text-decoration:underline}.cky-notice-des button.cky-policy,.cky-dma-content-wrapper button.cky-policy{padding:0}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-dma-content-wrapper a.cky-policy:focus-visible,.cky-dma-content-wrapper button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,[data-cky-tag=\"powered-by\"] a:focus-visible,[data-cky-tag=\"detail-powered-by\"] a:focus-visible,.cky-btn:focus-visible{outline:2px solid #1863dc;outline-offset:2px}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline:0}button.cky-show-desc-btn:not(:hover):not(:active){color:#1863dc;background:#fff0}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active){background:#fff0}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration:none}.cky-notice-btn-wrapper{display:flex;justify-content:center;align-items:center;margin-left:15px}.cky-notice-btn-wrapper .cky-btn{text-shadow:none;box-shadow:none}.cky-btn{font-size:14px;font-family:inherit;line-height:24px;padding:8px 27px;font-weight:500;margin:0 8px 0 0;border-radius:2px;white-space:nowrap;cursor:pointer;text-align:center;text-transform:none;min-height:0;overflow-wrap:break-word}.cky-btn:hover{filter:brightness(.9)}.cky-btn-customize{color:#1863dc;background:#fff0;border:2px solid #1863dc}.cky-btn-reject{color:#1863dc;background:#fff0;border:2px solid #1863dc}.cky-btn-accept{background:#1863dc;color:#fff;border:2px solid #1863dc}.cky-btn:last-child{margin-right:0}@media (max-width:768px){.cky-notice-group{display:block}.cky-notice-btn-wrapper{margin-left:0}.cky-notice-btn-wrapper .cky-btn{flex:auto;max-width:100%;margin-top:10px;white-space:unset}}@media (max-width:576px){.cky-notice-btn-wrapper{flex-direction:column}.cky-custom-brand-logo-wrapper,.cky-notice .cky-title,.cky-notice-des,.cky-notice-btn-wrapper{padding:0 28px}.cky-consent-container .cky-consent-bar .cky-notice-content-wrapper{padding:24px 0 12px 0}.cky-notice-des{max-height:40vh;overflow-y:scroll}.cky-notice-btn-wrapper .cky-btn{width:100%;padding:8px;margin-right:0}.cky-notice-btn-wrapper .cky-btn-accept{order:1}.cky-notice-btn-wrapper .cky-btn-reject{order:3}.cky-notice-btn-wrapper .cky-btn-customize{order:2}}@media (max-width:425px){.cky-custom-brand-logo-wrapper,.cky-notice .cky-title,.cky-notice-des,.cky-notice-btn-wrapper{padding:0 24px}.cky-notice-btn-wrapper{flex-direction:column}.cky-btn{width:100%;margin:10px 0 0 0}.cky-notice-btn-wrapper .cky-btn-customize{order:2}.cky-notice-btn-wrapper .cky-btn-reject{order:3}.cky-notice-btn-wrapper .cky-btn-accept{order:1;margin-top:16px}}@media (max-width:352px){.cky-notice .cky-title{font-size:16px}.cky-notice-des *{font-size:12px}.cky-notice-des,.cky-btn{font-size:12px}}.cky-modal.cky-modal-open{display:flex;visibility:visible;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%);transform:translate(-50%,-50%);top:50%;left:50%;transition:all 1s ease;max-height:100%}.cky-modal{box-shadow:0 32px 68px rgb(0 0 0 / .3);margin:0 auto;position:fixed;max-width:100%;background:#fff;top:50%;box-sizing:border-box;border-radius:6px;z-index:999999999;color:#212121;-webkit-transform:translate(-50%,100%);-moz-transform:translate(-50%,100%);-ms-transform:translate(-50%,100%);-o-transform:translate(-50%,100%);transform:translate(-50%,100%);visibility:hidden;transition:all 0s ease}.cky-preference-center{max-height:79vh;overflow:hidden;width:845px;overflow:hidden;flex:1 1 0%;display:flex;flex-direction:column;border-radius:6px}.cky-preference-header{display:flex;align-items:center;justify-content:space-between;padding:24px 24px 22px 24px;border-bottom:1px solid}.cky-preference-header .cky-preference-title{font-size:18px;font-weight:700;line-height:24px;word-break:break-word}.cky-preference-header .cky-btn-close{margin:0;cursor:pointer;vertical-align:middle;padding:0;background:none;border:none;width:24px;height:24px;min-height:0;line-height:0;text-shadow:none;box-shadow:none}.cky-preference-header .cky-btn-close img{margin:0;height:10px;width:10px}.cky-preference-body-wrapper{padding:0 24px;flex:1;overflow:auto;box-sizing:border-box}@media (max-height:576px){.cky-preference-center{height:100vh;overflow:auto}.cky-preference-center .cky-preference-body-wrapper{overflow:unset}}@media (max-height:480px){.cky-consent-container{max-height:100vh;overflow-y:scroll}.cky-notice-des{max-height:unset;overflow-y:unset}}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size:14px;line-height:24px;font-weight:400;padding:12px 0}.cky-preference-content-wrapper img{min-height:25px;min-width:25px}.cky-preference-content-wrapper .cky-show-desc-btn{font-size:14px;font-family:inherit;color:#1863dc;text-decoration:underline;line-height:24px;padding:0;margin:0;white-space:nowrap;cursor:pointer;background:#fff0;border-color:#fff0;text-transform:none;min-height:0;text-shadow:none;box-shadow:none}.cky-accordion-wrapper{margin-bottom:10px}.cky-accordion{border-bottom:1px solid}.cky-accordion:last-child{border-bottom:none}.cky-accordion .cky-accordion-item{display:flex;margin-top:10px}.cky-accordion .cky-accordion-body{display:none}.cky-accordion.cky-accordion-active .cky-accordion-body{display:block;padding:0 22px;margin-bottom:16px}.cky-accordion-header-wrapper{cursor:pointer;width:100%}.cky-accordion-item .cky-accordion-header{display:flex;justify-content:space-between;align-items:center}.cky-accordion-header .cky-accordion-btn{font-size:16px;font-family:inherit;color:#212121;line-height:24px;background:none;border:none;font-weight:700;padding:0;margin:0;cursor:pointer;text-transform:none;min-height:0;text-shadow:none;box-shadow:none}.cky-accordion-header .cky-always-active{color:green;font-weight:600;line-height:24px;font-size:14px}.cky-accordion-header-des{font-size:14px;line-height:24px;margin:10px 0 16px 0}.cky-accordion-chevron{margin-right:22px;position:relative;cursor:pointer}.cky-accordion-chevron-hide{display:none}.cky-accordion .cky-accordion-chevron i::before{content:\"\";position:absolute;border-right:1.4px solid;border-bottom:1.4px solid;border-color:inherit;height:6px;width:6px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);transition:all 0.2s ease-in-out;top:8px}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.cky-audit-table{background:#f4f4f4;border-radius:6px}.cky-audit-table .cky-empty-cookies-text{color:inherit;font-size:12px;line-height:24px;margin:0;padding:10px;word-break:break-word}.cky-audit-table .cky-cookie-des-table{font-size:12px;line-height:24px;font-weight:400;padding:15px 10px;border-bottom:1px solid;border-bottom-color:inherit;margin:0}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom:none}.cky-audit-table .cky-cookie-des-table li{list-style-type:none;display:flex;padding:3px 0}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top:0}.cky-cookie-des-table li div:first-child{width:100px;font-weight:600;word-break:break-word;word-wrap:break-word}.cky-cookie-des-table li div:last-child{flex:1;word-break:break-word;word-wrap:break-word;margin-left:8px}.cky-footer-shadow{display:block;width:100%;height:40px;background:linear-gradient(180deg,#fff0 0%,#ffffff 100%);position:absolute;bottom:calc(100% - 1px)}.cky-footer-wrapper{position:relative}.cky-prefrence-btn-wrapper{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;padding:22px 24px 12px 24px;border-top:1px solid;gap:8px}.cky-prefrence-btn-wrapper .cky-btn{flex:auto;max-width:100%;text-shadow:none;box-shadow:none;margin:0;white-space:unset;overflow-wrap:break-word}.cky-btn-preferences{color:#1863dc;background:#fff0;border:2px solid #1863dc}.cky-preference-header,.cky-preference-body-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color:inherit}.cky-preference-body-wrapper .cky-dma-content-wrapper{font-size:14px;line-height:24px;font-weight:400;padding:4px 0 12px}.cky-preference-body-wrapper .cky-dma-content-wrapper p{color:inherit;word-break:break-word}.cky-preference-body-wrapper .cky-dma-content-wrapper p:first-child{margin-top:0}.cky-preference-body-wrapper .cky-dma-content-wrapper p:last-child{margin-bottom:0}.cky-preference-body-wrapper .cky-horizontal-separator{border-bottom:1px solid;border-color:inherit}@media (max-width:845px){.cky-modal{max-width:calc(100% - 16px)}}@media (max-width:576px){.cky-modal{max-width:100%}.cky-preference-center{max-height:100vh}.cky-prefrence-btn-wrapper{flex-direction:column}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right:0}.cky-prefrence-btn-wrapper .cky-btn{width:100%;margin:10px 0 0 0}.cky-prefrence-btn-wrapper .cky-btn-reject{order:3}.cky-prefrence-btn-wrapper .cky-btn-accept{order:1;margin-top:0}.cky-prefrence-btn-wrapper .cky-btn-preferences{order:2}}@media (max-width:425px){.cky-accordion-chevron{margin-right:15px}.cky-notice-btn-wrapper{margin-top:0}.cky-accordion.cky-accordion-active .cky-accordion-body{padding:0 15px}}@media (max-width:352px){.cky-preference-header .cky-preference-title{font-size:16px}.cky-preference-header{padding:16px 24px}.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-dma-content-wrapper *{font-size:12px}.cky-preference-content-wrapper,.cky-preference-body-wrapper .cky-dma-content-wrapper,.cky-preference-content-wrapper .cky-show-more,.cky-accordion-header .cky-always-active,.cky-accordion-header-des,.cky-preference-content-wrapper .cky-show-desc-btn,.cky-notice-des a.cky-policy,.cky-dma-content-wrapper a.cky-policy{font-size:12px}.cky-accordion-header .cky-accordion-btn{font-size:14px}}.cky-switch{display:flex}.cky-switch input[type=\"checkbox\"]{position:relative;width:44px;height:24px;margin:0;background:#d0d5d2;-webkit-appearance:none;border-radius:50px;cursor:pointer;outline:0;border:none;top:0}.cky-switch input[type=\"checkbox\"]:checked{background:#1863dc}.cky-switch input[type=\"checkbox\"]:before{position:absolute;content:\"\";height:20px;width:20px;left:2px;bottom:2px;border-radius:50%;background-color:#fff;-webkit-transition:0.4s;transition:0.4s;margin:0}.cky-switch input[type=\"checkbox\"]:after{display:none}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform:translateX(20px);-ms-transform:translateX(20px);transform:translateX(20px)}@media (max-width:425px){.cky-switch input[type=\"checkbox\"]{width:38px;height:21px}.cky-switch input[type=\"checkbox\"]:before{height:17px;width:17px}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform:translateX(17px);-ms-transform:translateX(17px);transform:translateX(17px)}}.cky-consent-bar .cky-banner-btn-close{z-index:1;position:absolute;right:9px;top:5px;background:none;border:none;cursor:pointer;padding:0;margin:0;min-height:0;line-height:0;height:24px;width:24px;text-shadow:none;box-shadow:none}.cky-consent-bar .cky-banner-btn-close img{height:9px;width:9px;margin:0}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size:14px;line-height:24px;padding:6px 0;margin:0;font-weight:500;background:none;border-radius:2px;border:none;white-space:nowrap;cursor:pointer;text-align:left;color:#1863dc;background:#fff0;border-color:#fff0;box-shadow:none;text-shadow:none;text-decoration:underline}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline:2px solid #1863dc;outline-offset:2px}@media (max-width:768px){.cky-notice-btn-wrapper{margin-left:0;margin-top:10px;justify-content:left}.cky-notice-btn-wrapper .cky-btn-do-not-sell{padding:0}}@media (max-width:352px){.cky-notice-btn-wrapper .cky-btn-do-not-sell,.cky-notice-des a.cky-policy,.cky-notice-des a.cky-link-default{font-size:12px}}.cky-opt-out-wrapper{padding:12px 0}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display:flex;align-items:center}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size:16px;font-weight:700;line-height:24px;margin:0 0 0 12px;cursor:pointer;word-break:break-word}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color:#fff;border:1px solid #000;width:20px;height:18.5px;margin:0;-webkit-appearance:none;position:relative;display:flex;align-items:center;justify-content:center;border-radius:2px;cursor:pointer}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color:#1863dc;border:none}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left:6px;bottom:4px;width:7px;height:13px;border:solid #fff;border-width:0 3px 3px 0;border-radius:2px;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg);content:\"\";position:absolute;box-sizing:border-box}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor:no-drop}.cky-gpc-wrapper{margin:0 0 0 32px}.cky-footer-wrapper .cky-optout-action-area{padding:0 24px 22px 24px;box-sizing:border-box}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;padding-top:22px}.cky-opt-out-btn-wrapper .cky-btn{flex:auto;max-width:100%;text-shadow:none;box-shadow:none}.cky-opt-out-btn-wrapper .cky-btn-cancel{border:1px solid #dedfe0;background:#fff0;color:#858585}.cky-opt-out-btn-wrapper .cky-btn-confirm{background:#1863dc;color:#fff;border:1px solid #1863dc}.cky-optout-success{border-radius:8px;padding:8px 12px;margin:0 auto;box-sizing:border-box;outline:none}.cky-optout-success .cky-optout-success-inner{display:flex;flex-direction:column;gap:4px}.cky-optout-success .cky-optout-success-row{display:flex;align-items:flex-start}.cky-optout-success .cky-optout-success-icon{width:20px;flex-shrink:0}.cky-optout-success .cky-optout-success-text{margin-inline-start:8px;margin-top:1px;font-weight:400;font-size:13px;line-height:20px}.cky-optout-success .cky-optout-success-text p{margin:0}.cky-optout-success .cky-optout-success-subtext{margin:0;font-weight:400;font-size:12px;line-height:20px}@media (max-width:352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size:14px}.cky-gpc-wrapper .cky-gpc-desc,.cky-gpc-wrapper .cky-gpc-desc *{font-size:12px}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width:16px;height:16px}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left:5px;bottom:4px;width:3px;height:9px}.cky-gpc-wrapper{margin:0 0 0 28px}}.video-placeholder-youtube{background-size:100% 100%;background-position:center;background-repeat:no-repeat;background-color:#b2b0b059;position:relative;display:flex;align-items:center;justify-content:center;max-width:100%}.video-placeholder-text-youtube{text-align:center;align-items:center;padding:10px 16px;background-color:#000c;color:#fff;border:1px solid;border-radius:2px;cursor:pointer}.video-placeholder-normal{background-image:url(https://cdn-cookieyes.com/assets/images/cky-placeholder.svg);background-size:80px;background-position:center;background-repeat:no-repeat;background-color:#b2b0b059;position:relative;display:flex;align-items:flex-end;justify-content:center;max-width:100%}.video-placeholder-text-normal{align-items:center;padding:10px 16px;text-align:center;border:1px solid;border-radius:2px;cursor:pointer}.cky-rtl{direction:rtl;text-align:right}.cky-rtl .cky-banner-btn-close{left:9px;right:auto}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right:8px}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right:0}.cky-rtl .cky-notice-btn-wrapper{margin-left:0;margin-right:15px}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right:8px}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right:0}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border:none;border-left:1.4px solid;border-top:1.4px solid;left:12px}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform:rotate(-135deg);-moz-transform:rotate(-135deg);-ms-transform:rotate(-135deg);-o-transform:rotate(-135deg);transform:rotate(-135deg)}@media (max-width:768px){.cky-rtl .cky-notice-btn-wrapper{margin-right:0}}@media (max-width:576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right:0}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right:0}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding:0 22px 0 0}}@media (max-width:425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding:0 15px 0 0}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right:12px}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right:0}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin:0 12px 0 0}[data-cky-tag=\"powered-by\"]{justify-content:flex-end}[data-cky-tag=\"powered-by\"] div,[data-cky-tag=\"detail-powered-by\"],[data-cky-tag=\"optout-powered-by\"]{opacity:.7}[data-cky-tag=\"powered-by\"] div:hover,[data-cky-tag=\"detail-powered-by\"]:hover,[data-cky-tag=\"optout-powered-by\"]:hover{opacity:1}@media (max-width:768px){[data-cky-tag=\"powered-by\"]{justify-content:center;margin-top:8px}}.cky-preference-header .cky-preference-title{margin:0;padding:0}.cky-accordion-heading{margin:0;padding:0;font:inherit;color:inherit;display:block}@media (max-width:480px){.cky-btn-revisit-wrapper{width:36px;height:36px}.cky-btn-revisit-wrapper .cky-btn-revisit img{height:22px;width:22px}.cky-revisit-bottom-left{bottom:8px;left:8px}.cky-revisit-bottom-right{bottom:8px;right:8px}} .cky-hide-ad-settings{display:none}button.cky-iab-dec-btn,.cky-child-accordion-header-wrapper .cky-child-accordion-btn,.cky-vendor-wrapper .cky-show-table-btn{font-size:14px;font-family:inherit;line-height:24px;padding:0;margin:0;cursor:pointer;background:none;border:none;text-transform:none;min-height:0;text-shadow:none;box-shadow:none}.cky-child-accordion-header-wrapper .cky-child-accordion-btn,.cky-vendor-wrapper .cky-show-table-btn{text-decoration:none}button.cky-iab-dec-btn{color:#1863dc;text-decoration:underline}.cky-iab-detail-wrapper{display:flex;flex-direction:column;overflow:hidden;border-color:inherit;height:100vh}.cky-iab-detail-wrapper .cky-iab-preference-des{padding:12px 24px;font-size:14px;line-height:24px}.cky-iab-detail-wrapper .cky-iab-preference-des p{color:inherit;margin-top:0}.cky-iab-detail-wrapper .cky-iab-preference-des p:last-child{margin-bottom:0}.cky-iab-detail-wrapper .cky-iab-navbar-wrapper{padding:0 24px;border-color:inherit}.cky-iab-navbar-wrapper .cky-iab-navbar{display:flex;list-style-type:none;margin:0;padding:0;border-bottom:1px solid;border-color:inherit}.cky-iab-navbar .cky-iab-nav-item{margin:0 12px}.cky-iab-nav-item.cky-iab-nav-item-active{border-bottom:4px solid #1863dc}.cky-iab-navbar .cky-iab-nav-item:first-child{margin:0 12px 0 0}.cky-iab-navbar .cky-iab-nav-item:last-child{margin:0 0 0 12px}.cky-iab-nav-item button.cky-iab-nav-btn{padding:6px 0 14px;color:#757575;font-size:16px;line-height:24px;cursor:pointer;background:#fff0;border-color:#fff0;text-transform:none;min-height:0;text-shadow:none;box-shadow:none}.cky-iab-nav-item.cky-iab-nav-item-active button.cky-iab-nav-btn{color:#1863dc;font-weight:700}.cky-iab-detail-wrapper .cky-iab-detail-sub-wrapper{flex:1;overflow:auto;border-color:inherit}.cky-accordion .cky-accordion-iab-item{display:flex;padding:20px 0;cursor:pointer}.cky-accordion-header-wrapper .cky-accordion-header{display:flex;align-items:center;justify-content:space-between}.cky-accordion-body .cky-child-accordion{padding:0 15px;background-color:#f4f4f4;box-shadow:inset 0 -1px 0 rgb(0 0 0 / .1);border-radius:6px;margin-bottom:20px}.cky-child-accordion .cky-child-accordion-item{display:flex;padding:15px 0;cursor:pointer}.cky-accordion-body .cky-child-accordion.cky-accordion-active{padding:0 15px 15px}.cky-child-accordion.cky-accordion-active .cky-child-accordion-item{padding:15px 0 0}.cky-child-accordion-chevron{margin-right:18px;position:relative;cursor:pointer}.cky-child-accordion .cky-child-accordion-chevron i::before{content:\"\";position:absolute;border-right:1.4px solid;border-bottom:1.4px solid;border-color:#212121;height:6px;width:6px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);transition:all 0.2s ease-in-out;top:8px}.cky-child-accordion.cky-accordion-active .cky-child-accordion-chevron i::before{top:6px;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.cky-child-accordion-item .cky-child-accordion-header-wrapper{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;width:100%}.cky-child-accordion-header-wrapper .cky-child-accordion-btn{color:#212121;font-weight:700;text-align:left}.cky-child-accordion-header-wrapper .cky-switch-wrapper{color:#212121;display:flex;align-items:center;justify-content:end;flex-wrap:wrap}.cky-switch-wrapper .cky-legitimate-switch-wrapper,.cky-switch-wrapper .cky-consent-switch-wrapper{display:flex;align-items:center;justify-content:center}.cky-legitimate-switch-wrapper.cky-switch-separator{border-right:1px solid #d0d5d2;padding:0 10px 0 0}.cky-switch-wrapper .cky-consent-switch-wrapper{padding:0 0 0 10px}.cky-legitimate-switch-wrapper .cky-switch-label,.cky-consent-switch-wrapper .cky-switch-label{font-size:14px;line-height:24px;margin:0 8px 0 0}.cky-switch-sm{display:flex}.cky-switch-sm input[type=\"checkbox\"]{position:relative;width:34px;height:20px;margin:0;background:#d0d5d2;-webkit-appearance:none;border-radius:50px;cursor:pointer;outline:0;border:none;top:0}.cky-switch-sm input[type=\"checkbox\"]:checked{background:#1863dc}.cky-switch-sm input[type=\"checkbox\"]:before{position:absolute;content:\"\";height:16px;width:16px;left:2px;bottom:2px;border-radius:50%;background-color:#fff;-webkit-transition:0.4s;transition:0.4s;margin:0}.cky-switch-sm input[type=\"checkbox\"]:checked:before{-webkit-transform:translateX(14px);-ms-transform:translateX(14px);transform:translateX(14px)}.cky-switch-sm input[type=\"checkbox\"]:focus-visible{outline:2px solid #1863dc;outline-offset:2px}.cky-child-accordion .cky-child-accordion-body,.cky-preference-body-wrapper .cky-iab-detail-title{display:none}.cky-child-accordion.cky-accordion-active .cky-child-accordion-body{display:block}.cky-accordion-iab-item .cky-accordion-btn{color:inherit}.cky-child-accordion-body .cky-iab-ad-settings-details{color:#212121;font-size:12px;line-height:24px;margin:0 0 0 18px}.cky-child-accordion-body .cky-iab-ad-settings-details *{font-size:12px;line-height:24px;word-wrap:break-word}.cky-iab-ad-settings-details .cky-vendor-wrapper{color:#212121}.cky-iab-ad-settings-details .cky-iab-ad-settings-details-des,.cky-iab-ad-settings-details .cky-vendor-privacy-link{margin:13px 0 11px}.cky-iab-illustrations p,.cky-iab-illustrations .cky-iab-illustrations-des{margin:0}.cky-iab-illustrations .cky-iab-illustrations-title,.cky-vendor-privacy-link .cky-vendor-privacy-link-title,.cky-vendor-legitimate-link .cky-vendor-legitimate-link-title{font-weight:700}.cky-vendor-privacy-link .external-link-img,.cky-vendor-legitimate-link .external-link-img{display:inline-block;vertical-align:text-top}.cky-iab-illustrations .cky-iab-illustrations-des{padding:0 0 0 24px}.cky-iab-ad-settings-details .cky-iab-vendors-count-wrapper{font-weight:700;margin:11px 0 0}.cky-vendor-wrapper .cky-vendor-data-retention-section,.cky-vendor-wrapper .cky-vendor-purposes-section,.cky-vendor-wrapper .cky-vendor-special-purposes-section,.cky-vendor-wrapper .cky-vendor-features-section,.cky-vendor-wrapper .cky-vendor-special-features-section,.cky-vendor-wrapper .cky-vendor-categories-section,.cky-vendor-wrapper .cky-vendor-storage-overview-section,.cky-vendor-wrapper .cky-vendor-storage-disclosure-section,.cky-vendor-wrapper .cky-vendor-legitimate-link{margin:11px 0}.cky-vendor-privacy-link a,.cky-vendor-legitimate-link a{text-decoration:none;color:#1863dc}.cky-vendor-data-retention-section .cky-vendor-data-retention-value,.cky-vendor-purposes-section .cky-vendor-purposes-title,.cky-vendor-special-purposes-section .cky-vendor-special-purposes-title,.cky-vendor-features-section .cky-vendor-features-title,.cky-vendor-special-features-section .cky-vendor-special-features-title,.cky-vendor-categories-section .cky-vendor-categories-title,.cky-vendor-storage-overview-section .cky-vendor-storage-overview-title{font-weight:700;margin:0}.cky-vendor-storage-disclosure-section .cky-vendor-storage-disclosure-title{font-weight:700;margin:0 0 11px}.cky-vendor-data-retention-section .cky-vendor-data-retention-list,.cky-vendor-purposes-section .cky-vendor-purposes-list,.cky-vendor-special-purposes-section .cky-vendor-special-purposes-list,.cky-vendor-features-section .cky-vendor-features-list,.cky-vendor-special-features-section .cky-vendor-special-features-list,.cky-vendor-categories-section .cky-vendor-categories-list,.cky-vendor-storage-overview-section .cky-vendor-storage-overview-list,.cky-vendor-storage-disclosure-section .cky-vendor-storage-disclosure-list{margin:0;padding:0 0 0 18px}.cky-cookie-des-table .cky-purposes-list{padding:0 0 0 12px;margin:0}.cky-cookie-des-table .cky-purposes-list li{display:list-item;list-style-type:disc}.cky-vendor-wrapper .cky-show-table-btn{font-size:12px;color:#1863dc}.cky-vendor-wrapper .cky-loader,.cky-vendor-wrapper .cky-error-msg{margin:0}.cky-vendor-wrapper .cky-error-msg{color:#e71d36}.cky-audit-table.cky-vendor-audit-table{background-color:#fff;border-color:#f4f4f4}.cky-audit-table.cky-vendor-audit-table .cky-cookie-des-table li div:first-child{width:200px}button.cky-iab-dec-btn:focus-visible,button.cky-child-accordion-btn:focus-visible,button.cky-show-table-btn:focus-visible,button.cky-iab-nav-btn:focus-visible,.cky-vendor-privacy-link a:focus-visible,.cky-vendor-legitimate-link a:focus-visible{outline:2px solid #1863dc;outline-offset:2px}button.cky-iab-dec-btn:not(:hover):not(:active),button.cky-iab-nav-btn:not(:hover):not(:active),button.cky-child-accordion-btn:not(:hover):not(:active),button.cky-show-table-btn:not(:hover):not(:active),.cky-vendor-privacy-link a:not(:hover):not(:active),.cky-vendor-legitimate-link a:not(:hover):not(:active){background:#fff0}.cky-accordion-iab-item button.cky-accordion-btn:not(:hover):not(:active){color:inherit}button.cky-iab-nav-btn:not(:hover):not(:active){color:#757575}button.cky-iab-dec-btn:not(:hover):not(:active),.cky-iab-nav-item.cky-iab-nav-item-active button.cky-iab-nav-btn:not(:hover):not(:active),button.cky-show-table-btn:not(:hover):not(:active){color:#1863dc}button.cky-child-accordion-btn:not(:hover):not(:active){color:#212121}button.cky-iab-nav-btn:focus:not(:focus-visible),button.cky-iab-dec-btn:focus:not(:focus-visible),button.cky-child-accordion-btn:focus:not(:focus-visible),button.cky-show-table-btn:focus:not(:focus-visible){outline:0}.cky-switch-sm input[type=\"checkbox\"]:after{display:none}.cky-vendor-list-loader{position:relative;height:80px;overflow:hidden}.cky-vendor-list-loader>*{display:none}.cky-vendor-list-loader::after{content:\"\";position:absolute;top:0;left:0;width:100%;height:100%;background:#fff url(https://cdn-cookieyes.com/assets/images/loading.gif) no-repeat center center;background-size:20px}@media (max-height:576px){.cky-preference-center .cky-iab-detail-wrapper{overflow:unset;height:unset}.cky-iab-detail-wrapper .cky-iab-detail-sub-wrapper{overflow:unset}}@media (max-width:768px){.cky-child-accordion-header-wrapper .cky-switch-wrapper{width:100%}}@media (max-width:576px){.cky-hide-ad-settings{display:block}.cky-iab-detail-wrapper{display:block;flex:1;overflow:auto;border-color:inherit}.cky-iab-detail-wrapper .cky-iab-navbar-wrapper{display:none}.cky-iab-detail-sub-wrapper .cky-preference-body-wrapper{border-top:1px solid;border-color:inherit}.cky-preference-body-wrapper .cky-iab-detail-title{display:block;font-size:16px;font-weight:700;margin:10px 0 0;line-height:24px}.cky-audit-table.cky-vendor-audit-table .cky-cookie-des-table li div:first-child{width:100px}}@media (max-width:425px){.cky-switch-sm input[type=\"checkbox\"]{width:25px;height:16px}.cky-switch-sm input[type=\"checkbox\"]:before{height:12px;width:12px}.cky-switch-sm input[type=\"checkbox\"]:checked:before{-webkit-transform:translateX(9px);-ms-transform:translateX(9px);transform:translateX(9px)}.cky-child-accordion-chevron{margin-right:15px}.cky-child-accordion-body .cky-iab-ad-settings-details{margin:0 0 0 15px}}@media (max-width:352px){.cky-iab-detail-wrapper .cky-iab-preference-des,.cky-child-accordion-header-wrapper .cky-child-accordion-btn,.cky-legitimate-switch-wrapper .cky-switch-label,.cky-consent-switch-wrapper .cky-switch-label,button.cky-iab-dec-btn{font-size:12px}.cky-preference-body-wrapper .cky-iab-detail-title{font-size:14px}}.cky-rtl .cky-child-accordion .cky-child-accordion-chevron i::before{border:none;border-left:1.4px solid;border-top:1.4px solid;left:12px}.cky-rtl .cky-child-accordion.cky-accordion-active .cky-child-accordion-chevron i::before{-webkit-transform:rotate(-135deg);-moz-transform:rotate(-135deg);-ms-transform:rotate(-135deg);-o-transform:rotate(-135deg);transform:rotate(-135deg)}.cky-rtl .cky-child-accordion-body .cky-iab-ad-settings-details{margin:0 18px 0 0}.cky-rtl .cky-iab-illustrations .cky-iab-illustrations-des{padding:0 24px 0 0}.cky-rtl .cky-consent-switch-wrapper .cky-switch-label,.cky-rtl .cky-legitimate-switch-wrapper .cky-switch-label{margin:0 0 0 8px}.cky-rtl .cky-switch-wrapper .cky-legitimate-switch-wrapper{padding:0;border-right:none}.cky-rtl .cky-legitimate-switch-wrapper.cky-switch-separator{border-left:1px solid #d0d5d2;padding:0 0 0 10px}.cky-rtl .cky-switch-wrapper .cky-consent-switch-wrapper{padding:0 10px 0 0}.cky-rtl .cky-child-accordion-header-wrapper .cky-child-accordion-btn{text-align:right}.cky-rtl .cky-vendor-data-retention-section .cky-vendor-data-retention-list,.cky-rtl .cky-vendor-purposes-section .cky-vendor-purposes-list,.cky-rtl .cky-vendor-special-purposes-section .cky-vendor-special-purposes-list,.cky-rtl .cky-vendor-features-section .cky-vendor-features-list,.cky-rtl .cky-vendor-special-features-section .cky-vendor-special-features-list,.cky-rtl .cky-vendor-categories-section .cky-vendor-categories-list,.cky-rtl .cky-vendor-storage-overview-section .cky-vendor-storage-overview-list,.cky-rtl .cky-vendor-storage-disclosure-section .cky-vendor-storage-disclosure-list{padding:0 18px 0 0}@media (max-width:425px){.cky-rtl .cky-child-accordion-body .cky-iab-ad-settings-details{margin:0 15px 0 0}} </style>",
    "defaultLanguage": "en",
    "bannerType": "banner",
-   "respectGPC": true,
-   "iabEnabled": false,
+   "respectGPC": false,
+   "iabEnabled": true,
    "scriptExpiry": 365,
    "manualLinkColor": "#1863dc",
    "languageMap": {
-    "en": "Smcpi23H",
-    "es": "BfpW4Knw"
+    "en": "KxvGjx1Z",
+    "es": "KLPUk7sa"
    },
    "globalLanguageMap": {
     "en": "t2YIlsnh",
@@ -69531,29 +69762,73 @@
   }
  },
  {
-  "url": "https://cdn-cookieyes.com/client_data/dc34215fe772012946c34a9f211dcc1e/translations/Smcpi23H.json",
+  "url": "https://cdn-cookieyes.com/client_data/dc34215fe772012946c34a9f211dcc1e/translations/KxvGjx1Z.json",
   "data": {
    "cky_notice_title": "We value your privacy",
-   "cky_notice_description": "<p>We use cookies and other online tracking technologies to improve your experience, personalize content, and analyze our website\u2019s performance, and we share this data with our third-party partners. You can choose whether and how we place these technologies by selecting an option below. For more information on how we collect and use this information, please review our <a href=\"https://www.pullapart.com/privacy-policy/\" target=\"_blank\" rel=\"noreferrer noopener\">Privacy Policy</a>.</p>",
+   "cky_notice_description": "<p>We use cookies to enhance your browsing experience, serve personalised ads or content, and analyse our traffic. By clicking \"Accept All\", you consent to our use of cookies.</p>",
    "cky_notice_close_label": "Close",
    "cky_readmore_text": "Cookie Policy",
    "cky_readmore_privacyLink": "https://www.pullapart.com/privacy-policy/",
    "cky_revisit_title": "Consent Preferences",
    "cky_video_placeholder_title": "Please accept cookies to access this content",
-   "cky_donotsell_text": "Opt-out",
-   "cky_optout_title": "We value your privacy",
-   "cky_optout_description": "<p>We use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. However, you can opt out of these cookies by checking \"Opt-out\" and clicking the \"Save My Preferences\" button. Once you opt out, you can opt in again at any time by unchecking \"Opt-out\" and clicking the \"Save My Preferences\" button.</p>",
-   "cky_optout_option_title": "Opt-out",
-   "cky_optout_gpc_description": "<p>Your opt-out settings for this website have been respected since we detected a <b>Global Privacy Control</b> signal from your browser and, therefore, you cannot change this setting.</p>",
-   "cky_optout_confirm_text": "Save My Preferences",
-   "cky_optout_cancel_text": "Cancel",
-   "cky_optout_close_label": "Close",
-   "cky_enable_optout_label": "Enable",
-   "cky_disable_optout_label": "Disable",
+   "cky_accept_text": "Accept All",
+   "cky_reject_text": "Reject All",
+   "cky_settings_text": "Customise",
+   "cky_preference_title": "Customise Consent Preferences",
+   "cky_preference_description": "<p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as \"Necessary\" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p>",
+   "cky_preference_always_enabled": "Always Active",
+   "cky_preference_save_text": "Save My Preferences",
+   "cky_preference_accept_text": "Accept All",
+   "cky_preference_reject_text": "Reject All",
+   "cky_preview_save_text": "Save My Preferences",
+   "cky_enable_category_label": "Enable",
+   "cky_disable_category_label": "Disable",
+   "cky_preference_close_label": "Close",
    "cky_showmore_text": "Show more",
    "cky_showless_text": "Show less",
-   "cky_optout_success_text": "Your opt-out preference has been honored.",
-   "cky_optout_success_subtext": "Banner closes automatically in <span id=\"ckyCountdownTimer\"></span> s..."
+   "cky_iab_notice_description": "<p>We and <button class=\"cky-iab-dec-btn\" id=\"ckyIABNoticeButton\" data-cky-tag=\"partners-button\" aria-label=\"our {{count}} partners\" style=\"color: #1863dc;\">our {{count}} partners</button> use cookies and other tracking technologies to improve your experience on our website. We may store and/or access information on a device and process personal data, such as your IP address and browsing data, for personalised advertising and content, advertising and content measurement, audience research and services development. Additionally, we may utilize precise geolocation data and identification through device scanning.</p><p>Please note that your choices apply across all our subdomains. Once you give consent, a floating button will appear at the bottom of your screen, allowing you to change or withdraw your consent at any time. We respect your choices and are committed to providing you with a transparent and secure browsing experience.</p>",
+   "cky_iab_preference_description": "<p>Customise your consent preferences for Cookie Categories and advertising tracking preferences for Purposes &amp; Features and Vendors below. You can give granular consent for each <button class=\"cky-iab-dec-btn\" id=\"ckyIABPreferenceButton\" data-cky-tag=\"third-party-button\" aria-label=\"Third Party Vendor\" style=\"color: #1863dc;\">Third Party Vendor</button> and <button class=\"cky-iab-dec-btn\" id=\"ckyIABGACMPreferenceButton\" data-cky-tag=\"adtech-button\" aria-label=\"Google Ad Tech Provider\" style=\"color: #1863dc;\">Google Ad Tech Provider</button>. Most vendors require explicit consent for personal data processing, while some rely on legitimate interest. However, you have the right to object to their use of legitimate interest. Additionally, please note that your preferences regarding purposes and vendors are saved in a cookie named 'euconsent' on your device and may be retained for up to 730 days to remember your choices.</p>",
+   "cky_iab_common_legitimate_interest": "Legitimate Interest",
+   "cky_iab_common_consent": "Consent",
+   "cky_iab_common_purposes": "Purposes",
+   "cky_iab_common_special_purposes": "Special Purposes",
+   "cky_iab_common_features": "Features",
+   "cky_iab_common_special_features": "Special Features",
+   "cky_iab_common_loading": "Loading...",
+   "cky_iab_common_load_error": "An unexpected error occurred. Please try again.",
+   "cky_iab_nav_item_cookie_categories": "Cookie Categories",
+   "cky_iab_nav_item_purposes_n_features": "Purposes &amp; Features",
+   "cky_iab_nav_item_vendors": "Vendors",
+   "cky_iab_purpose_n_feature_illustration_subtitle": "Illustrations",
+   "cky_iab_purpose_n_feature_vendors_seeking_combained": "Number of Vendors seeking consent or relying on legitimate interest",
+   "cky_iab_purpose_n_feature_vendors_seeking_consent": "Number of Vendors seeking consent",
+   "cky_iab_vendors_privacy_policy_link_subtitle": "Privacy Policy",
+   "cky_iab_vendors_legitimate_interest_link_subtitle": "Legitimate Interest Claim",
+   "cky_iab_vendors_retention_period_of_data_subtitle": "Data Retention Period",
+   "cky_iab_vendors_retention_period_of_data_unit": "days",
+   "cky_iab_vendors_categories_of_data_subtitle": "Data Categories",
+   "cky_iab_vendors_device_storage_overview_title": "Device Storage Overview",
+   "cky_iab_vendors_tracking_method_subtitle": "Tracking method",
+   "cky_iab_vendors_tracking_method_cookie_message": "Cookie",
+   "cky_iab_vendors_tracking_method_others_message": "Cookie and others",
+   "cky_iab_vendors_maximum_duration_of_cookies_subtitle": "Maximum duration of cookies",
+   "cky_iab_vendors_maximum_duration_of_cookies_unit": "days",
+   "cky_iab_vendors_cookie_refreshed_message": "Cookie lifetime is being refreshed",
+   "cky_iab_vendors_cookie_not_refreshed_message": "Cookie lifetime is not refreshed",
+   "cky_iab_vendors_device_storage_disclosure_title": "Device Storage Disclosure",
+   "cky_iab_purpose_n_features_purposes_title": "Purposes",
+   "cky_iab_purpose_n_features_features_title": "Features",
+   "cky_iab_purpose_n_features_special_purposes_title": "Special Purposes",
+   "cky_iab_purpose_n_features_special_features_title": "Special Features",
+   "cky_iab_vendors_third_party_title": "Third party vendors",
+   "cky_iab_vendors_device_storage_disclosure_table_name": "Name",
+   "cky_iab_vendors_device_storage_disclosure_table_type": "Type",
+   "cky_iab_vendors_device_storage_disclosure_table_domain": "Domain",
+   "cky_iab_vendors_device_storage_disclosure_table_duration": "Duration",
+   "cky_iab_vendors_google_ad_title": "Google Ad Tech Providers",
+   "cky_preference_dma_description": "<p>For more information on how Google's third-party cookies operate and handle your data, see:</p>",
+   "cky_dma_readmore_text": "Google Privacy Policy",
+   "cky_dma_privacyLink": "https://business.safety.google/privacy"
   }
  },
  {
@@ -69772,36 +70047,6 @@
    "cky_preference_advertisement_description": "<p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p>",
    "cky_preference_other_title": "Uncategorised",
    "cky_preference_other_description": "<p>Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.</p>"
-  }
- },
- {
-  "url": "https://enterpriseservice.pullapart.com/Location/12",
-  "data": {
-   "locationID": 12,
-   "locationName": "Lafayette",
-   "address1": "207 Galbert Road",
-   "address2": "",
-   "cityName": "Lafayette",
-   "stateName": "LA",
-   "zip": "70506",
-   "siteTypeID": 3,
-   "phone": "337-237-7370",
-   "phoneCarBuying": "770-892-6121",
-   "phoneUsedCar": "337-443-4888",
-   "taxRate": 0.09,
-   "warrantyDays": 32,
-   "coreDays": 32,
-   "allowsCashReturns": 0,
-   "email": "lafayette@pullapart.com",
-   "passcodeForMiscItems": "False",
-   "retailEmail": "lft1Retail@pullapart.com",
-   "environmentalFeeCap": 1000000.0,
-   "environmentalFeeRate": 0.1,
-   "locationShortName": "lft1",
-   "dateCreated": "0001-01-01T00:00:00",
-   "dateModified": "0001-01-01T00:00:00",
-   "timeZoneId": 0,
-   "honorsDayLightSavingsTime": 0
   }
  },
  {
@@ -70753,6 +70998,36 @@
     "honorsDayLightSavingsTime": 1
    }
   ]
+ },
+ {
+  "url": "https://enterpriseservice.pullapart.com/Location/12",
+  "data": {
+   "locationID": 12,
+   "locationName": "Lafayette",
+   "address1": "207 Galbert Road",
+   "address2": "",
+   "cityName": "Lafayette",
+   "stateName": "LA",
+   "zip": "70506",
+   "siteTypeID": 3,
+   "phone": "337-237-7370",
+   "phoneCarBuying": "770-892-6121",
+   "phoneUsedCar": "337-443-4888",
+   "taxRate": 0.09,
+   "warrantyDays": 32,
+   "coreDays": 32,
+   "allowsCashReturns": 0,
+   "email": "lafayette@pullapart.com",
+   "passcodeForMiscItems": "False",
+   "retailEmail": "lft1Retail@pullapart.com",
+   "environmentalFeeCap": 1000000.0,
+   "environmentalFeeRate": 0.1,
+   "locationShortName": "lft1",
+   "dateCreated": "0001-01-01T00:00:00",
+   "dateModified": "0001-01-01T00:00:00",
+   "timeZoneId": 0,
+   "honorsDayLightSavingsTime": 0
+  }
  },
  {
   "url": "https://inventoryservice.pullapart.com/Vehicle/NewOnYard",
