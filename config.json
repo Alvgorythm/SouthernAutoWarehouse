@@ -1,6 +1,6 @@
 {
   "yard_url": "https://www.pullapart.com/used-auto-parts/new-on-yard/?Locations=12&DaysOnYard=1&LocationPage=false&LocationID=0",
-  "environment": "sandbox",
+  "environment": "production",
   "marketplace": "EBAY_US",
   "threshold": 50,
   "delay_seconds": 0.3,
