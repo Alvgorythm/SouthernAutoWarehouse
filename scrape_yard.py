@@ -101,8 +101,12 @@ def main():
     cfg = json.loads((HERE / "config.json").read_text())
     vehicles = scrape(cfg["yard_url"])
     if not vehicles:
-        sys.exit("No vehicles found. Keeping the previous vehicles.csv. "
-                 "Check logs/yard_raw.json and logs/yard_page.html.")
+        # Normal on weekends/holidays: the yard doesn't set out new cars.
+        # Keep the previous list so the rest of the run still works.
+        print("WARNING: No new vehicles on the yard list right now. "
+              "Keeping the previous vehicles.csv. "
+              "(If this happens on a weekday, check logs/yard_raw.json.)")
+        return
     with (HERE / "vehicles.csv").open("w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["year", "make", "model", "row", "vin"])
         w.writeheader()
