@@ -4,7 +4,7 @@
   "data": {
    "uid": 830087,
    "dkey": "94a6533221e003b9a1b60b8dd5246344",
-   "updated_at": 1791468179,
+   "updated_at": 1791554569,
    "version": "11.5.557",
    "site_data_url_template": "https://script.crazyegg.com/pages/data-scripts/0083/0087/site/SITENAME.json",
    "site_sampling_url_template": "https://script.crazyegg.com/pages/data-scripts/0083/0087/sampling/SITENAME.json",
@@ -43,7 +43,7 @@
    "thirdparty_script_url": "https://script.crazyegg.com/pages/versioned/thirdparty-scripts/6fe5101ffa32e66e4debad675c8eea66.js",
    "remote_script_url": "https://script.crazyegg.com/pages/versioned/remote-scripts/81d1701dbc9e7f7bf421387273c9c389.js",
    "remote_host_url": "https://script.crazyegg.com/pages/remote-host.html?common=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fcommon-scripts%2F0890f4eaeb0cb04f734921762ba0d327.js&thirdparty=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fthirdparty-scripts%2F6fe5101ffa32e66e4debad675c8eea66.js&remote=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fremote-scripts%2F81d1701dbc9e7f7bf421387273c9c389.js",
-   "sites": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<!}$7$9$.$;$4$.$2$4$5$.$2$4$5%9&%$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9%9&%$3$1$2$.$2$8$6$.$2$4$3$.$3$2%9&%$2$;$3$.$2$7$9$.$1$.$3$2$8%9&%$2$;$3$.$2$7$9$.$1$.$2$6$6%9&%$8$6$.$8$3$.$2$8$4$.$9%9&%$2$;$3$.$2$7$9$.$1$.$3$2$;%9&%$8$5$.$2$4$;$.$3$4$6$.$2%9&%$8$5$.$9$4$.$2$1$6$.$7$5%9&%$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5!}$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<!}%8%;!}$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$3$;$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;",
+   "sites": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<!}$7$9$.$;$4$.$2$4$5$.$2$4$5%9&%$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9%9&%$3$1$2$.$2$8$6$.$2$4$3$.$3$2%9&%$2$;$3$.$2$7$9$.$1$.$3$2$8%9&%$2$;$3$.$2$7$9$.$1$.$2$6$6%9&%$8$6$.$8$3$.$2$8$4$.$9%9&%$2$;$3$.$2$7$9$.$1$.$3$2$;%9&%$8$5$.$2$4$;$.$3$4$6$.$2%9&%$8$5$.$9$4$.$2$1$6$.$7$5%9&%$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5!}$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<!}%8%;!}$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$4$5$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;",
    "segments": [],
    "global_ip_block_list": "$7$9$.$;$4$.$2$4$5$.$2$4$5!.$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9!.$3$1$2$.$2$8$6$.$2$4$3$.$3$2!.$2$;$3$.$2$7$9$.$1$.$3$2$8!.$2$;$3$.$2$7$9$.$1$.$2$6$6!.$8$6$.$8$3$.$2$8$4$.$9!.$2$;$3$.$2$7$9$.$1$.$3$2$;!.$8$5$.$2$4$;$.$3$4$6$.$2!.$8$5$.$9$4$.$2$1$6$.$7$5!.$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5",
    "is_using_ip_blocking": true,
@@ -119,16 +119,16 @@
   "url": "https://script.crazyegg.com/pages/data-scripts/0083/0087/sampling/www.pullapart.com.json?t=1",
   "data": {
    "version": "11.5.557",
-   "sites_sampling": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$3$;$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4&6%;"
+   "sites_sampling": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$4$5$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4&6%;"
   }
  },
  {
   "url": "https://cdn-cookieyes.com/common/iab-gvl-v3.json",
   "data": {
    "gvlSpecificationVersion": 3,
-   "vendorListVersion": 179,
+   "vendorListVersion": 180,
    "tcfPolicyVersion": 5,
-   "lastUpdated": "2026-10-01T16:00:19Z",
+   "lastUpdated": "2026-10-08T16:00:18Z",
    "purposes": {
     "1": {
      "id": 1,
@@ -3620,7 +3620,7 @@
        "legIntClaim": "https://www.openx.com/privacy-center/openx-ad-exchange-privacy-policy/"
       }
      ],
-     "usesNonCookieAccess": true,
+     "usesNonCookieAccess": false,
      "dataRetention": {
       "stdRetention": 90,
       "purposes": {},
@@ -5238,7 +5238,7 @@
       10,
       11
      ],
-     "deviceStorageDisclosureUrl": "https://loopme.ai/deviceStorageDisclosure.json"
+     "deviceStorageDisclosureUrl": "https://loopme.ai/devicestoragedisclosure.json"
     },
     "110": {
      "id": 110,
@@ -11411,6 +11411,7 @@
      "specialFeatures": [
       1
      ],
+     "deletedDate": "2026-10-08T06:33:14.74Z",
      "cookieMaxAgeSeconds": null,
      "usesCookies": false,
      "cookieRefresh": false,
@@ -12319,7 +12320,52 @@
       {
        "langId": "en",
        "privacy": "https://www.gemius.com/privacy-policy.html",
-       "legIntClaim": "https://www.gemius.com/privacy-policy.html"
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "pl",
+       "privacy": "https://gemius.com/pl/polityka-prywatnosci/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "hu",
+       "privacy": "https://gemius.com/hu/adatvedelmi-tajekoztato/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "de",
+       "privacy": "https://gemius.com/de/datenschutzpolitik/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "lv",
+       "privacy": "https://gemius.com/lv/privatuma-politika/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "lt",
+       "privacy": "https://gemius.com/lt/privatumo-politika/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "tr",
+       "privacy": "https://gemius.com/tr/gizlilik-politikasi/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "uk",
+       "privacy": "https://gemius.com/ua/%D0%BC%D0%B8-%D0%BD%D0%B0%D0%B4%D0%B0%D1%94%D0%BC%D0%BE-%D0%BF%D0%BE%D1%81%D0%BB%D1%83%D0%B3%D0%B8/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "sk",
+       "privacy": "https://gemius.com/sk/ochrana-osobnych-udajov/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
+      },
+      {
+       "langId": "hr",
+       "privacy": "https://gemius.com/hr/politika-privatnosti/",
+       "legIntClaim": "https://gemius.com/documents/57/20240812_LIC_Gemius.pdf"
       }
      ],
      "usesNonCookieAccess": true,
@@ -12341,7 +12387,7 @@
       10,
       11
      ],
-     "deviceStorageDisclosureUrl": "https://gemius.com/media/documents/Gemius_SA_Vendor_Device_Storage.json"
+     "deviceStorageDisclosureUrl": "https://gemius.com/Gemius_SA_Vendor_Device_Storage.json"
     },
     "329": {
      "id": 329,
@@ -18809,6 +18855,7 @@
       3,
       4,
       7,
+      9,
       10
      ],
      "legIntPurposes": [],
@@ -18818,8 +18865,12 @@
       2,
       3
      ],
-     "features": [],
-     "specialFeatures": [],
+     "features": [
+      1
+     ],
+     "specialFeatures": [
+      1
+     ],
      "cookieMaxAgeSeconds": null,
      "usesCookies": false,
      "cookieRefresh": false,
@@ -18832,19 +18883,21 @@
      ],
      "usesNonCookieAccess": true,
      "dataRetention": {
-      "stdRetention": 31,
+      "stdRetention": 365,
       "purposes": {
-       "3": 365,
-       "4": 365
+       "7": 31
       },
-      "specialPurposes": {}
+      "specialPurposes": {
+       "1": 31
+      }
      },
      "dataDeclaration": [
       1,
       2,
       3,
+      6,
       8,
-      9,
+      10,
       11
      ],
      "deviceStorageDisclosureUrl": "https://www.localsensor.com/legal/tcf/vendor-disclosure-tcf-22.json"
@@ -25140,6 +25193,7 @@
      "id": 778,
      "name": "Discover-Tech ltd",
      "purposes": [
+      1,
       2,
       3,
       4,
@@ -25147,30 +25201,42 @@
      ],
      "legIntPurposes": [],
      "flexiblePurposes": [],
-     "specialPurposes": [],
+     "specialPurposes": [
+      1,
+      2
+     ],
      "features": [
       3
      ],
      "specialFeatures": [],
-     "cookieMaxAgeSeconds": null,
-     "usesCookies": false,
-     "cookieRefresh": false,
+     "deletedDate": "2026-10-08T13:57:02.096Z",
+     "cookieMaxAgeSeconds": 31536000,
+     "usesCookies": true,
+     "cookieRefresh": true,
      "urls": [
       {
        "langId": "en",
        "privacy": "https://www.discover-tech.io/privacy-policy",
-       "legIntClaim": ""
+       "legIntClaim": "https://www.discover-tech.io/legitimate"
       }
      ],
-     "usesNonCookieAccess": false,
+     "usesNonCookieAccess": true,
      "dataRetention": {
       "stdRetention": 93,
-      "purposes": {},
+      "purposes": {
+       "3": 365,
+       "4": 365
+      },
       "specialPurposes": {}
      },
      "dataDeclaration": [
       1,
-      3
+      2,
+      3,
+      6,
+      8,
+      10,
+      11
      ],
      "deviceStorageDisclosureUrl": "https://info.discover-tech.io/disclosure.json"
     },
@@ -40988,7 +41054,7 @@
      "overflow": {
       "httpGetLimit": 128
      },
-     "cookieMaxAgeSeconds": 31556952,
+     "cookieMaxAgeSeconds": 62985600,
      "usesCookies": true,
      "cookieRefresh": true,
      "urls": [
@@ -41663,15 +41729,10 @@
       4,
       7
      ],
-     "legIntPurposes": [
-      8,
-      9,
-      11
-     ],
-     "flexiblePurposes": [
-      9
-     ],
+     "legIntPurposes": [],
+     "flexiblePurposes": [],
      "specialPurposes": [
+      1,
       2,
       3
      ],
@@ -41679,7 +41740,9 @@
       1,
       3
      ],
-     "specialFeatures": [],
+     "specialFeatures": [
+      1
+     ],
      "cookieMaxAgeSeconds": 12090579,
      "usesCookies": true,
      "cookieRefresh": true,
@@ -41695,8 +41758,7 @@
       "stdRetention": 1825,
       "purposes": {
        "3": 1812,
-       "4": 1824,
-       "11": 1797
+       "4": 1824
       },
       "specialPurposes": {
        "3": 0
@@ -49668,6 +49730,7 @@
      "name": "Copper6 LTD",
      "purposes": [
       1,
+      2,
       3,
       4,
       5,
@@ -56158,7 +56221,8 @@
       3
      ],
      "specialFeatures": [
-      1
+      1,
+      2
      ],
      "overflow": {
       "httpGetLimit": 128
@@ -62056,7 +62120,7 @@
      "specialFeatures": [],
      "cookieMaxAgeSeconds": 63072000,
      "usesCookies": true,
-     "cookieRefresh": false,
+     "cookieRefresh": true,
      "urls": [
       {
        "langId": "en",
@@ -62855,7 +62919,7 @@
      ],
      "cookieMaxAgeSeconds": 1209600,
      "usesCookies": true,
-     "cookieRefresh": false,
+     "cookieRefresh": true,
      "urls": [
       {
        "langId": "en",
@@ -63239,7 +63303,7 @@
       10,
       11
      ],
-     "deviceStorageDisclosureUrl": "https://thechannelstore.tv/sellers.json"
+     "deviceStorageDisclosureUrl": "https://ads.thechannelstore.tv/deviceStorage.json"
     },
     "1627": {
      "id": 1627,
@@ -63396,7 +63460,7 @@
       3
      ],
      "specialFeatures": [],
-     "cookieMaxAgeSeconds": 525600,
+     "cookieMaxAgeSeconds": 31536000,
      "usesCookies": true,
      "cookieRefresh": true,
      "urls": [
@@ -63939,7 +64003,7 @@
        "legIntClaim": "https://www.genleads.com/privacy#european"
       }
      ],
-     "usesNonCookieAccess": false,
+     "usesNonCookieAccess": true,
      "dataRetention": {
       "stdRetention": 365,
       "purposes": {},
@@ -64181,26 +64245,24 @@
       3,
       4,
       7,
-      9,
-      10
+      9
      ],
      "legIntPurposes": [],
      "flexiblePurposes": [],
-     "specialPurposes": [],
-     "features": [
+     "specialPurposes": [
       1,
-      2,
-      3
+      2
      ],
+     "features": [],
      "specialFeatures": [],
-     "cookieMaxAgeSeconds": 180,
+     "cookieMaxAgeSeconds": 15552000,
      "usesCookies": true,
-     "cookieRefresh": false,
+     "cookieRefresh": true,
      "urls": [
       {
        "langId": "en",
        "privacy": "https://acheron-ai.tech/privacy.html",
-       "legIntClaim": ""
+       "legIntClaim": "https://acheron-ai.tech/privacy.html#legitimate-interest-claim"
       }
      ],
      "usesNonCookieAccess": false,
@@ -64216,9 +64278,11 @@
      "dataDeclaration": [
       1,
       2,
-      3,
       4,
+      6,
+      7,
       8,
+      10,
       11
      ],
      "deviceStorageDisclosureUrl": "https://acheron-ai.tech/privacy.json"
@@ -64431,7 +64495,7 @@
     },
     "1649": {
      "id": 1649,
-     "name": "ADN Topco SAS",
+     "name": "ADN Topco (Helix)",
      "purposes": [
       1,
       2,
@@ -64623,9 +64687,9 @@
       1
      ],
      "specialFeatures": [],
-     "cookieMaxAgeSeconds": 87600,
-     "usesCookies": true,
-     "cookieRefresh": true,
+     "cookieMaxAgeSeconds": null,
+     "usesCookies": false,
+     "cookieRefresh": false,
      "urls": [
       {
        "langId": "en",
@@ -64652,7 +64716,7 @@
       8,
       11
      ],
-     "deviceStorageDisclosureUrl": "https://adbridg.com/sellers.json"
+     "deviceStorageDisclosureUrl": "https://www.adbridg.com/_functions/deviceStorage/deviceStorage.json"
     },
     "1653": {
      "id": 1653,
@@ -64755,6 +64819,145 @@
       11
      ],
      "deviceStorageDisclosureUrl": "https://a.fluxtech.ai/vendor-disclosure-flux-bidder.json"
+    },
+    "1655": {
+     "id": 1655,
+     "name": "ScientiaMobile, Inc.",
+     "purposes": [
+      1
+     ],
+     "legIntPurposes": [
+      7
+     ],
+     "flexiblePurposes": [],
+     "specialPurposes": [],
+     "features": [],
+     "specialFeatures": [],
+     "cookieMaxAgeSeconds": null,
+     "usesCookies": false,
+     "cookieRefresh": false,
+     "urls": [
+      {
+       "langId": "en",
+       "privacy": "https://scientiamobile.com/wurflrtd-privacy-policy/",
+       "legIntClaim": "https://scientiamobile.com/wurflrtd-legitimate-interest-assessment-lia/"
+      }
+     ],
+     "usesNonCookieAccess": true,
+     "dataRetention": {
+      "purposes": {
+       "7": 56
+      },
+      "specialPurposes": {}
+     },
+     "dataDeclaration": [
+      1,
+      2
+     ],
+     "deviceStorageDisclosureUrl": "https://web.wurfl.io/device-storage-disclosure.json"
+    },
+    "1656": {
+     "id": 1656,
+     "name": "Advanced Digital Adtech Ltd",
+     "purposes": [
+      1,
+      3,
+      4
+     ],
+     "legIntPurposes": [
+      2,
+      7,
+      9,
+      10
+     ],
+     "flexiblePurposes": [
+      2,
+      7,
+      9
+     ],
+     "specialPurposes": [
+      1,
+      2,
+      3
+     ],
+     "features": [
+      1,
+      2,
+      3
+     ],
+     "specialFeatures": [
+      1
+     ],
+     "cookieMaxAgeSeconds": 34560000,
+     "usesCookies": true,
+     "cookieRefresh": true,
+     "urls": [
+      {
+       "langId": "en",
+       "privacy": "https://udi.ad-vanced.media/privacy-policy",
+       "legIntClaim": "https://udi.ad-vanced.media/legitimate-interest"
+      }
+     ],
+     "usesNonCookieAccess": true,
+     "dataRetention": {
+      "stdRetention": 395,
+      "purposes": {},
+      "specialPurposes": {}
+     },
+     "dataDeclaration": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     "deviceStorageDisclosureUrl": "https://h5.ad-vanced.media/h5/ad0a0000-0000-4000-8000-000000000001/7cf00000-0000-4000-8000-000000000001/deviceStorage.json"
+    },
+    "1657": {
+     "id": 1657,
+     "name": "Volasim Limited",
+     "purposes": [
+      1,
+      2,
+      7
+     ],
+     "legIntPurposes": [],
+     "flexiblePurposes": [],
+     "specialPurposes": [
+      1
+     ],
+     "features": [
+      3
+     ],
+     "specialFeatures": [],
+     "cookieMaxAgeSeconds": 0,
+     "usesCookies": true,
+     "cookieRefresh": false,
+     "urls": [
+      {
+       "langId": "en",
+       "privacy": "https://www.volasim.com/privacy-policy",
+       "legIntClaim": "https://www.volasim.com/legitimate-intrest"
+      }
+     ],
+     "usesNonCookieAccess": false,
+     "dataRetention": {
+      "stdRetention": 93,
+      "purposes": {},
+      "specialPurposes": {}
+     },
+     "dataDeclaration": [
+      1,
+      2,
+      3
+     ],
+     "deviceStorageDisclosureUrl": "https://info.volasim.com/disclosure.json"
     }
    },
    "googleVendors": {
@@ -66133,11 +66336,6 @@
      "name": "\"Front Porch",
      "privacy": "Inc.\""
     },
-    "2278": {
-     "id": 2278,
-     "name": "\"SpringServe\"",
-     "privacy": "\"https://springserve.com/consumer-privacy\""
-    },
     "2279": {
      "id": 2279,
      "name": "\"Intimate Merger\"",
@@ -66362,6 +66560,11 @@
      "id": 2501,
      "name": "\"AdFalcon\"",
      "privacy": "\"http://www.adfalcon.com/en/tech-policy.html\""
+    },
+    "2504": {
+     "id": 2504,
+     "name": "\"Cuebiq\"",
+     "privacy": "\"https://www.cuebiq.com/privacypolicy/\""
     },
     "2506": {
      "id": 2506,
@@ -67287,6 +67490,11 @@
      "id": 3034,
      "name": "\"Clario\"",
      "privacy": "\"https://www.clar.io/privacy\""
+    },
+    "3036": {
+     "id": 3036,
+     "name": "\"Discover-Tech LTD\"",
+     "privacy": "\"http://discover-tech.io/dsp-privacy-policy/\""
     },
     "3038": {
      "id": 3038,
@@ -68322,6 +68530,11 @@
      "id": 64631,
      "name": "\"Erli\"",
      "privacy": "\"https://erli.pl/regulaminy/polityka-prywatnosci-i-cookie-27-08-2026\""
+    },
+    "66531": {
+     "id": 66531,
+     "name": "\"ADCRIVO\"",
+     "privacy": "\"https://www.adcrivo.co/privacy-policy\""
     }
    }
   }
@@ -70008,36 +70221,6 @@
   }
  },
  {
-  "url": "https://enterpriseservice.pullapart.com/Location/12",
-  "data": {
-   "locationID": 12,
-   "locationName": "Lafayette",
-   "address1": "207 Galbert Road",
-   "address2": "",
-   "cityName": "Lafayette",
-   "stateName": "LA",
-   "zip": "70506",
-   "siteTypeID": 3,
-   "phone": "337-237-7370",
-   "phoneCarBuying": "770-892-6121",
-   "phoneUsedCar": "337-443-4888",
-   "taxRate": 0.09,
-   "warrantyDays": 32,
-   "coreDays": 32,
-   "allowsCashReturns": 0,
-   "email": "lafayette@pullapart.com",
-   "passcodeForMiscItems": "False",
-   "retailEmail": "lft1Retail@pullapart.com",
-   "environmentalFeeCap": 1000000.0,
-   "environmentalFeeRate": 0.1,
-   "locationShortName": "lft1",
-   "dateCreated": "0001-01-01T00:00:00",
-   "dateModified": "0001-01-01T00:00:00",
-   "timeZoneId": 0,
-   "honorsDayLightSavingsTime": 0
-  }
- },
- {
   "url": "https://enterpriseservice.pullapart.com/Location?siteTypeID=-1",
   "data": [
    {
@@ -70988,178 +71171,33 @@
   ]
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186906&lineID=1&programID=35&imageIndex=1",
+  "url": "https://enterpriseservice.pullapart.com/Location/12",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095611_12_1186906_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186906&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095611_12_1186906_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186822&lineID=4&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094541_12_1186822_4.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186822&lineID=4&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094541_12_1186822_4.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186896&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095725_12_1186896_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186896&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095725_12_1186896_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186761&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095633_12_1186761_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186761&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095633_12_1186761_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186901&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095645_12_1186901_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186901&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095645_12_1186901_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186927&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094522_12_1186927_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186927&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094522_12_1186927_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186966&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095545_12_1186966_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186966&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095545_12_1186966_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186845&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094306_12_1186845_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186845&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094306_12_1186845_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186970&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095559_12_1186970_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186970&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095559_12_1186970_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186860&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094254_12_1186860_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186860&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094254_12_1186860_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186701&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095700_12_1186701_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186701&lineID=1&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007095700_12_1186701_1.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186822&lineID=6&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094453_12_1186822_6.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186822&lineID=6&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094453_12_1186822_6.png",
-   "filePath": ""
-  }
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186822&lineID=8&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094508_12_1186822_8.png",
-   "filePath": ""
+   "locationID": 12,
+   "locationName": "Lafayette",
+   "address1": "207 Galbert Road",
+   "address2": "",
+   "cityName": "Lafayette",
+   "stateName": "LA",
+   "zip": "70506",
+   "siteTypeID": 3,
+   "phone": "337-237-7370",
+   "phoneCarBuying": "770-892-6121",
+   "phoneUsedCar": "337-443-4888",
+   "taxRate": 0.09,
+   "warrantyDays": 32,
+   "coreDays": 32,
+   "allowsCashReturns": 0,
+   "email": "lafayette@pullapart.com",
+   "passcodeForMiscItems": "False",
+   "retailEmail": "lft1Retail@pullapart.com",
+   "environmentalFeeCap": 1000000.0,
+   "environmentalFeeRate": 0.1,
+   "locationShortName": "lft1",
+   "dateCreated": "0001-01-01T00:00:00",
+   "dateModified": "0001-01-01T00:00:00",
+   "timeZoneId": 0,
+   "honorsDayLightSavingsTime": 0
   }
  },
  {
@@ -71167,237 +71205,8 @@
   "data": [
    {
     "locationID": 12,
-    "exact": [
-     {
-      "vinID": 1097934,
-      "ticketID": 1186822,
-      "lineID": 4,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 246,
-      "modelName": "EXPLORER",
-      "modelYear": 2002,
-      "row": 206,
-      "vin": "1FMZU64E62UA41681",
-      "dateYardOn": "2026-10-07T08:26:25.12",
-      "vinDecodedId": 34331,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097936,
-      "ticketID": 1186822,
-      "lineID": 6,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 35,
-      "makeName": "LINCOLN",
-      "modelID": 1428,
-      "modelName": "MKZ",
-      "modelYear": 2014,
-      "row": 206,
-      "vin": "3LN6L2GK8ER810788",
-      "dateYardOn": "2026-10-07T08:34:34.937",
-      "vinDecodedId": 152052,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097938,
-      "ticketID": 1186822,
-      "lineID": 8,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 251,
-      "modelName": "FIESTA",
-      "modelYear": 2019,
-      "row": 206,
-      "vin": "3FADP4EJ8KM158839",
-      "dateYardOn": "2026-10-07T08:31:37.543",
-      "vinDecodedId": 230982,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098045,
-      "ticketID": 1186927,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 678,
-      "modelName": "ESCAPE",
-      "modelYear": 2008,
-      "row": 206,
-      "vin": "1FMCU03118KE82737",
-      "dateYardOn": "2026-10-07T08:30:12.077",
-      "vinDecodedId": 3600,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097963,
-      "ticketID": 1186845,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1394,
-      "modelName": "FLEX",
-      "modelYear": 2011,
-      "row": 207,
-      "vin": "2FMGK5CC0BBD01411",
-      "dateYardOn": "2026-10-07T08:41:48.733",
-      "vinDecodedId": 129643,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097978,
-      "ticketID": 1186860,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1366,
-      "modelName": "FUSION",
-      "modelYear": 2012,
-      "row": 207,
-      "vin": "3FAHP0HG3CR421916",
-      "dateYardOn": "2026-10-07T08:39:13.553",
-      "vinDecodedId": 150622,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097776,
-      "ticketID": 1186701,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 26,
-      "makeName": "GMC",
-      "modelID": 1392,
-      "modelName": "ACADIA",
-      "modelYear": 2012,
-      "row": 515,
-      "vin": "1GKKRTED6CJ175416",
-      "dateYardOn": "2026-10-07T07:57:35.813",
-      "vinDecodedId": 146672,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097863,
-      "ticketID": 1186761,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1129,
-      "modelName": "F-150",
-      "modelYear": 2006,
-      "row": 515,
-      "vin": "1FTPW14VX6FB04302",
-      "dateYardOn": "2026-10-07T08:06:20.487",
-      "vinDecodedId": 15317,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098014,
-      "ticketID": 1186896,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1129,
-      "modelName": "F-150",
-      "modelYear": 2004,
-      "row": 515,
-      "vin": "1FTPW14504FA35648",
-      "dateYardOn": "2026-10-07T07:54:20.437",
-      "vinDecodedId": 25137,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098019,
-      "ticketID": 1186901,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 21,
-      "makeName": "DODGE",
-      "modelID": 2349,
-      "modelName": "RAM 1500",
-      "modelYear": 2007,
-      "row": 515,
-      "vin": "1D7HA18297S275141",
-      "dateYardOn": "2026-10-07T08:01:06.013",
-      "vinDecodedId": 8720,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098024,
-      "ticketID": 1186906,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 236,
-      "modelName": "AEROSTAR",
-      "modelYear": 1996,
-      "row": 515,
-      "vin": "1FMCA11U4TZB29629",
-      "dateYardOn": "2026-10-07T08:09:08.217",
-      "vinDecodedId": 58694,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098100,
-      "ticketID": 1186966,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 27,
-      "makeName": "HONDA",
-      "modelID": 710,
-      "modelName": "ODYSSEY",
-      "modelYear": 2008,
-      "row": 515,
-      "vin": "5FNRL38678B419100",
-      "dateYardOn": "2026-10-07T08:16:35.75",
-      "vinDecodedId": 5174,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098104,
-      "ticketID": 1186970,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1129,
-      "modelName": "F-150",
-      "modelYear": 2011,
-      "row": 515,
-      "vin": "1FTEX1CM2BFA79130",
-      "dateYardOn": "2026-10-07T08:12:33.187",
-      "vinDecodedId": 126190,
-      "extendedInfo": null
-     }
-    ]
+    "exact": []
    }
   ]
- },
- {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186822&lineID=8&programID=35&imageIndex=1",
-  "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261007094508_12_1186822_8.png",
-   "filePath": ""
-  }
  }
 ]
