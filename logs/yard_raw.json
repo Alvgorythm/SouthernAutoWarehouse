@@ -4,7 +4,7 @@
   "data": {
    "uid": 830087,
    "dkey": "94a6533221e003b9a1b60b8dd5246344",
-   "updated_at": 1792756983,
+   "updated_at": 1792839795,
    "version": "11.5.562",
    "site_data_url_template": "https://script.crazyegg.com/pages/data-scripts/0083/0087/site/SITENAME.json",
    "site_sampling_url_template": "https://script.crazyegg.com/pages/data-scripts/0083/0087/sampling/SITENAME.json",
@@ -43,7 +43,7 @@
    "thirdparty_script_url": "https://script.crazyegg.com/pages/versioned/thirdparty-scripts/6fe5101ffa32e66e4debad675c8eea66.js",
    "remote_script_url": "https://script.crazyegg.com/pages/versioned/remote-scripts/81d1701dbc9e7f7bf421387273c9c389.js",
    "remote_host_url": "https://script.crazyegg.com/pages/remote-host.html?common=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fcommon-scripts%2Ffb257decada2ea5e50f6bd8954577d1d.js&thirdparty=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fthirdparty-scripts%2F6fe5101ffa32e66e4debad675c8eea66.js&remote=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fremote-scripts%2F81d1701dbc9e7f7bf421387273c9c389.js",
-   "sites": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<!}$7$9$.$;$4$.$2$4$5$.$2$4$5%9&%$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9%9&%$3$1$2$.$2$8$6$.$2$4$3$.$3$2%9&%$2$;$3$.$2$7$9$.$1$.$3$2$8%9&%$2$;$3$.$2$7$9$.$1$.$2$6$6%9&%$8$6$.$8$3$.$2$8$4$.$9%9&%$2$;$3$.$2$7$9$.$1$.$3$2$;%9&%$8$5$.$2$4$;$.$3$4$6$.$2%9&%$8$5$.$9$4$.$2$1$6$.$7$5%9&%$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5!}$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<!}%8%;!}$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$2$7$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;",
+   "sites": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<!}$7$9$.$;$4$.$2$4$5$.$2$4$5%9&%$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9%9&%$3$1$2$.$2$8$6$.$2$4$3$.$3$2%9&%$2$;$3$.$2$7$9$.$1$.$3$2$8%9&%$2$;$3$.$2$7$9$.$1$.$2$6$6%9&%$8$6$.$8$3$.$2$8$4$.$9%9&%$2$;$3$.$2$7$9$.$1$.$3$2$;%9&%$8$5$.$2$4$;$.$3$4$6$.$2%9&%$8$5$.$9$4$.$2$1$6$.$7$5%9&%$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5!}$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<!}%8%;!}$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$;$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;",
    "segments": [],
    "global_ip_block_list": "$7$9$.$;$4$.$2$4$5$.$2$4$5!.$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9!.$3$1$2$.$2$8$6$.$2$4$3$.$3$2!.$2$;$3$.$2$7$9$.$1$.$3$2$8!.$2$;$3$.$2$7$9$.$1$.$2$6$6!.$8$6$.$8$3$.$2$8$4$.$9!.$2$;$3$.$2$7$9$.$1$.$3$2$;!.$8$5$.$2$4$;$.$3$4$6$.$2!.$8$5$.$9$4$.$2$1$6$.$7$5!.$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5",
    "is_using_ip_blocking": true,
@@ -120,7 +120,7 @@
   "url": "https://script.crazyegg.com/pages/data-scripts/0083/0087/sampling/www.pullapart.com.json?t=1",
   "data": {
    "version": "11.5.562",
-   "sites_sampling": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$2$7$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4&6%;"
+   "sites_sampling": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$;$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4&6%;"
   }
  },
  {
@@ -70860,36 +70860,6 @@
   }
  },
  {
-  "url": "https://enterpriseservice.pullapart.com/Location/12",
-  "data": {
-   "locationID": 12,
-   "locationName": "Lafayette",
-   "address1": "207 Galbert Road",
-   "address2": "",
-   "cityName": "Lafayette",
-   "stateName": "LA",
-   "zip": "70506",
-   "siteTypeID": 3,
-   "phone": "337-237-7370",
-   "phoneCarBuying": "770-892-6121",
-   "phoneUsedCar": "337-443-4888",
-   "taxRate": 0.09,
-   "warrantyDays": 32,
-   "coreDays": 32,
-   "allowsCashReturns": 0,
-   "email": "lafayette@pullapart.com",
-   "passcodeForMiscItems": "False",
-   "retailEmail": "lft1Retail@pullapart.com",
-   "environmentalFeeCap": 1000000.0,
-   "environmentalFeeRate": 0.1,
-   "locationShortName": "lft1",
-   "dateCreated": "0001-01-01T00:00:00",
-   "dateModified": "0001-01-01T00:00:00",
-   "timeZoneId": 0,
-   "honorsDayLightSavingsTime": 0
-  }
- },
- {
   "url": "https://enterpriseservice.pullapart.com/Location?siteTypeID=-1",
   "data": [
    {
@@ -71840,233 +71810,291 @@
   ]
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187113&lineID=1&programID=35&imageIndex=1",
+  "url": "https://enterpriseservice.pullapart.com/Location/12",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142620_12_1187113_1.png",
+   "locationID": 12,
+   "locationName": "Lafayette",
+   "address1": "207 Galbert Road",
+   "address2": "",
+   "cityName": "Lafayette",
+   "stateName": "LA",
+   "zip": "70506",
+   "siteTypeID": 3,
+   "phone": "337-237-7370",
+   "phoneCarBuying": "770-892-6121",
+   "phoneUsedCar": "337-443-4888",
+   "taxRate": 0.09,
+   "warrantyDays": 32,
+   "coreDays": 32,
+   "allowsCashReturns": 0,
+   "email": "lafayette@pullapart.com",
+   "passcodeForMiscItems": "False",
+   "retailEmail": "lft1Retail@pullapart.com",
+   "environmentalFeeCap": 1000000.0,
+   "environmentalFeeRate": 0.1,
+   "locationShortName": "lft1",
+   "dateCreated": "0001-01-01T00:00:00",
+   "dateModified": "0001-01-01T00:00:00",
+   "timeZoneId": 0,
+   "honorsDayLightSavingsTime": 0
+  }
+ },
+ {
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186783&lineID=1&programID=35&imageIndex=1",
+  "data": {
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143851_12_1186783_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187113&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186783&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142620_12_1187113_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143851_12_1186783_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187148&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187053&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143359_12_1187148_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144113_12_1187053_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187148&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187053&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143359_12_1187148_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144113_12_1187053_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187010&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186977&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142811_12_1187010_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144503_12_1186977_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187010&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186977&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142811_12_1187010_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144503_12_1186977_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186932&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187034&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143341_12_1186932_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143837_12_1187034_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186932&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187034&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143341_12_1186932_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143837_12_1187034_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186900&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187075&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143235_12_1186900_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121625_12_1187075_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186900&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187075&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143235_12_1186900_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121625_12_1187075_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187045&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186926&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142920_12_1187045_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144030_12_1186926_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187045&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186926&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142920_12_1187045_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144030_12_1186926_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187023&lineID=2&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187018&lineID=19&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142935_12_1187023_2.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144012_12_1187018_19.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187023&lineID=2&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187018&lineID=19&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142935_12_1187023_2.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144012_12_1187018_19.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187144&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186912&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142753_12_1187144_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121559_12_1186912_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187144&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186912&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142753_12_1187144_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121559_12_1186912_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187104&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186991&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143549_12_1187104_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121640_12_1186991_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187104&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186991&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143549_12_1187104_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121640_12_1186991_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186950&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186863&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142901_12_1186950_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143911_12_1186863_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186950&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186863&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142901_12_1186950_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143911_12_1186863_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186880&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186902&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143326_12_1186880_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121611_12_1186902_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186880&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186902&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143326_12_1186880_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121611_12_1186902_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186800&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187018&lineID=6&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142639_12_1186800_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143958_12_1187018_6.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186800&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187018&lineID=6&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142639_12_1186800_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143958_12_1187018_6.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187052&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187140&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142826_12_1187052_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144523_12_1187140_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187052&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187140&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142826_12_1187052_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144523_12_1187140_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187095&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187020&lineID=5&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142705_12_1187095_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143926_12_1187020_5.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187095&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187020&lineID=5&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142705_12_1187095_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143926_12_1187020_5.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186996&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187057&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143250_12_1186996_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143804_12_1187057_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186996&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187057&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022143250_12_1186996_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143804_12_1187057_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187105&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187017&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142843_12_1187105_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144538_12_1187017_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187105&lineID=1&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187017&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142843_12_1187105_1.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144538_12_1187017_1.png",
    "filePath": ""
   }
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187018&lineID=13&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187022&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142737_12_1187018_13.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143821_12_1187022_1.png",
+   "filePath": ""
+  }
+ },
+ {
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187022&lineID=1&programID=35&imageIndex=1",
+  "data": {
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023143821_12_1187022_1.png",
+   "filePath": ""
+  }
+ },
+ {
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187157&lineID=1&programID=35&imageIndex=1",
+  "data": {
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144052_12_1187157_1.png",
+   "filePath": ""
+  }
+ },
+ {
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187157&lineID=1&programID=35&imageIndex=1",
+  "data": {
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023144052_12_1187157_1.png",
+   "filePath": ""
+  }
+ },
+ {
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186358&lineID=1&programID=35&imageIndex=1",
+  "data": {
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121542_12_1186358_1.png",
    "filePath": ""
   }
  },
@@ -72077,292 +72105,326 @@
     "locationID": 12,
     "exact": [
      {
-      "vinID": 1097998,
-      "ticketID": 1186880,
+      "vinID": 1097885,
+      "ticketID": 1186783,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1366,
-      "modelName": "FUSION",
-      "modelYear": 2012,
-      "row": 207,
-      "vin": "3FAHP0HG3CR321380",
-      "dateYardOn": "2026-10-22T13:31:52.043",
-      "vinDecodedId": 150622,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098018,
-      "ticketID": 1186900,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 35,
-      "makeName": "LINCOLN",
-      "modelID": 1478,
-      "modelName": "MKX",
-      "modelYear": 2007,
-      "row": 207,
-      "vin": "2LMDU68C87BJ30639",
-      "dateYardOn": "2026-10-22T13:32:08.573",
-      "vinDecodedId": 11846,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098050,
-      "ticketID": 1186932,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 38,
-      "makeName": "MERCURY",
-      "modelID": 335,
-      "modelName": "GRAND MARQUIS",
+      "makeID": 16,
+      "makeName": "CHEVROLET",
+      "modelID": 143,
+      "modelName": "IMPALA",
       "modelYear": 2005,
-      "row": 207,
-      "vin": "2MEFM74W45X606608",
-      "dateYardOn": "2026-10-22T13:31:43.257",
-      "vinDecodedId": 22294,
+      "row": 104,
+      "vin": "2G1WF52E059260290",
+      "dateYardOn": "2026-10-23T09:59:05.183",
+      "vinDecodedId": 19053,
       "extendedInfo": null
      },
      {
-      "vinID": 1098130,
-      "ticketID": 1186996,
+      "vinID": 1097981,
+      "ticketID": 1186863,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 24,
-      "makeName": "FORD",
-      "modelID": 1366,
-      "modelName": "FUSION",
-      "modelYear": 2013,
-      "row": 207,
-      "vin": "3FA6P0H7XDR370553",
-      "dateYardOn": "2026-10-22T13:31:59.433",
-      "vinDecodedId": 144217,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098328,
-      "ticketID": 1187148,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 35,
-      "makeName": "LINCOLN",
-      "modelID": 1539,
-      "modelName": "TOWN CAR",
-      "modelYear": 2000,
-      "row": 207,
-      "vin": "1LNHM82W8YY888674",
-      "dateYardOn": "2026-10-22T13:31:36.53",
-      "vinDecodedId": 44791,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1097902,
-      "ticketID": 1186800,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 56,
-      "makeName": "TOYOTA",
-      "modelID": 475,
-      "modelName": "CAMRY",
-      "modelYear": 2012,
-      "row": 317,
-      "vin": "4T4BF1FK4CR227227",
-      "dateYardOn": "2026-10-22T13:25:23.71",
-      "vinDecodedId": 145730,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098084,
-      "ticketID": 1186950,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 61,
-      "makeName": "KIA",
-      "modelID": 1338,
-      "modelName": "SORENTO",
-      "modelYear": 2011,
-      "row": 317,
-      "vin": "5XYKU4A27BG009652",
-      "dateYardOn": "2026-10-22T13:23:47.103",
-      "vinDecodedId": 128901,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098145,
-      "ticketID": 1187010,
-      "lineID": 1,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 6,
-      "makeName": "ACURA",
-      "modelID": 10,
-      "modelName": "MDX",
-      "modelYear": 2003,
-      "row": 317,
-      "vin": "2HNYD18623H511550",
-      "dateYardOn": "2026-10-22T13:24:21.857",
-      "vinDecodedId": 28043,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098165,
-      "ticketID": 1187018,
-      "lineID": 13,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 41,
-      "makeName": "NISSAN",
-      "modelID": 1734,
-      "modelName": "NV200",
-      "modelYear": 2017,
-      "row": 317,
-      "vin": "3N6CM0KN3HK690967",
-      "dateYardOn": "2026-10-22T13:24:38.967",
-      "vinDecodedId": 211330,
-      "extendedInfo": null
-     },
-     {
-      "vinID": 1098195,
-      "ticketID": 1187023,
-      "lineID": 2,
-      "locID": 12,
-      "locName": "Lafayette",
-      "makeID": 37,
-      "makeName": "MERCEDES-BENZ",
-      "modelID": 1562,
-      "modelName": "E-CLASS",
+      "makeID": 14,
+      "makeName": "BUICK",
+      "modelID": 1365,
+      "modelName": "LUCERNE",
       "modelYear": 2009,
-      "row": 317,
-      "vin": "WDBUF56X59B427708",
-      "dateYardOn": "2026-10-22T13:23:18.227",
-      "vinDecodedId": 1340,
+      "row": 104,
+      "vin": "1G4HP57M29U117312",
+      "dateYardOn": "2026-10-23T09:58:28.803",
+      "vinDecodedId": 87,
       "extendedInfo": null
      },
      {
-      "vinID": 1098224,
-      "ticketID": 1187045,
+      "vinID": 1098044,
+      "ticketID": 1186926,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 59,
-      "makeName": "VW",
-      "modelID": 512,
-      "modelName": "JETTA",
+      "makeID": 52,
+      "makeName": "SATURN",
+      "modelID": 837,
+      "modelName": "VUE",
       "modelYear": 2008,
-      "row": 317,
-      "vin": "3VWRM71K38M160321",
-      "dateYardOn": "2026-10-22T13:23:32.713",
-      "vinDecodedId": 6734,
+      "row": 104,
+      "vin": "3GSCL33PX8S711454",
+      "dateYardOn": "2026-10-23T09:39:13.28",
+      "vinDecodedId": 6210,
       "extendedInfo": null
      },
      {
-      "vinID": 1098231,
-      "ticketID": 1187052,
-      "lineID": 1,
+      "vinID": 1098158,
+      "ticketID": 1187018,
+      "lineID": 6,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 41,
-      "makeName": "NISSAN",
-      "modelID": 368,
-      "modelName": "ALTIMA",
-      "modelYear": 2012,
-      "row": 317,
-      "vin": "1N4AL2AP2CC181792",
-      "dateYardOn": "2026-10-22T13:24:02.707",
-      "vinDecodedId": 132756,
+      "makeID": 15,
+      "makeName": "CADILLAC",
+      "modelID": 1187,
+      "modelName": "CTS",
+      "modelYear": 2010,
+      "row": 104,
+      "vin": "1G6DF5EG9A0144394",
+      "dateYardOn": "2026-10-23T09:38:51.593",
+      "vinDecodedId": 128785,
       "extendedInfo": null
      },
      {
-      "vinID": 1098275,
-      "ticketID": 1187095,
-      "lineID": 1,
+      "vinID": 1098171,
+      "ticketID": 1187018,
+      "lineID": 19,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 41,
-      "makeName": "NISSAN",
-      "modelID": 1376,
-      "modelName": "VERSA",
-      "modelYear": 2012,
-      "row": 317,
-      "vin": "3N1CN7AP0CL943471",
-      "dateYardOn": "2026-10-22T13:25:02.667",
-      "vinDecodedId": 138017,
+      "makeID": 16,
+      "makeName": "CHEVROLET",
+      "modelID": 143,
+      "modelName": "IMPALA",
+      "modelYear": 2008,
+      "row": 104,
+      "vin": "2G1WT58N389191308",
+      "dateYardOn": "2026-10-23T09:39:01.713",
+      "vinDecodedId": 2472,
       "extendedInfo": null
      },
      {
-      "vinID": 1098285,
-      "ticketID": 1187105,
+      "vinID": 1098181,
+      "ticketID": 1187020,
+      "lineID": 5,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 16,
+      "makeName": "CHEVROLET",
+      "modelID": 146,
+      "modelName": "MALIBU",
+      "modelYear": 2011,
+      "row": 104,
+      "vin": "1G1ZC5EU9BF393268",
+      "dateYardOn": "2026-10-23T09:40:05.707",
+      "vinDecodedId": 134195,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098188,
+      "ticketID": 1187022,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 41,
-      "makeName": "NISSAN",
-      "modelID": 1376,
-      "modelName": "VERSA",
+      "makeID": 16,
+      "makeName": "CHEVROLET",
+      "modelID": 143,
+      "modelName": "IMPALA",
+      "modelYear": 2015,
+      "row": 104,
+      "vin": "2G1125S37F9252998",
+      "dateYardOn": "2026-10-23T10:06:45.953",
+      "vinDecodedId": 149134,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098213,
+      "ticketID": 1187034,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 47,
+      "makeName": "PONTIAC",
+      "modelID": 1373,
+      "modelName": "G6",
+      "modelYear": 2007,
+      "row": 104,
+      "vin": "1G2ZG58N074275004",
+      "dateYardOn": "2026-10-23T10:06:00.69",
+      "vinDecodedId": 12361,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098232,
+      "ticketID": 1187053,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 15,
+      "makeName": "CADILLAC",
+      "modelID": 1527,
+      "modelName": "STS",
+      "modelYear": 2005,
+      "row": 104,
+      "vin": "1G6DW677950124610",
+      "dateYardOn": "2026-10-23T09:39:39.01",
+      "vinDecodedId": 18862,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098236,
+      "ticketID": 1187057,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 16,
+      "makeName": "CHEVROLET",
+      "modelID": 1638,
+      "modelName": "SONIC",
       "modelYear": 2013,
-      "row": 317,
-      "vin": "3N1CN7AP0DL888179",
-      "dateYardOn": "2026-10-22T13:23:53.963",
-      "vinDecodedId": 146601,
+      "row": 104,
+      "vin": "1G1JC5SH8D4191007",
+      "dateYardOn": "2026-10-23T10:08:20.54",
+      "vinDecodedId": 135818,
       "extendedInfo": null
      },
      {
-      "vinID": 1098293,
-      "ticketID": 1187113,
+      "vinID": 1098337,
+      "ticketID": 1187157,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 56,
-      "makeName": "TOYOTA",
-      "modelID": 477,
-      "modelName": "COROLLA",
-      "modelYear": 1998,
-      "row": 317,
-      "vin": "1NXBR18EXWZ105565",
-      "dateYardOn": "2026-10-22T13:25:36.223",
-      "vinDecodedId": 53654,
+      "makeID": 16,
+      "makeName": "CHEVROLET",
+      "modelID": 1548,
+      "modelName": "EQUINOX",
+      "modelYear": 2015,
+      "row": 104,
+      "vin": "2GNALAEK8F1147568",
+      "dateYardOn": "2026-10-23T09:39:19.597",
+      "vinDecodedId": 192414,
       "extendedInfo": null
      },
      {
-      "vinID": 1098324,
-      "ticketID": 1187144,
+      "vinID": 1098111,
+      "ticketID": 1186977,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 29,
-      "makeName": "INFINITI",
-      "modelID": 1710,
-      "modelName": "G37 SEDAN",
+      "makeID": 21,
+      "makeName": "DODGE",
+      "modelID": 198,
+      "modelName": "CHARGER",
+      "modelYear": 2006,
+      "row": 402,
+      "vin": "2B3KA43G26H229758",
+      "dateYardOn": "2026-10-23T10:40:14.667",
+      "vinDecodedId": 14495,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098152,
+      "ticketID": 1187017,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 17,
+      "makeName": "CHRYSLER",
+      "modelID": 1744,
+      "modelName": "200",
+      "modelYear": 2013,
+      "row": 402,
+      "vin": "1C3CCBBB6DN743208",
+      "dateYardOn": "2026-10-23T10:32:07.97",
+      "vinDecodedId": 148598,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098320,
+      "ticketID": 1187140,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 33,
+      "makeName": "JEEP",
+      "modelID": 1036,
+      "modelName": "GRAND CHEROKEE",
       "modelYear": 2010,
-      "row": 317,
-      "vin": "JN1CV6AP3AM202535",
-      "dateYardOn": "2026-10-22T13:24:28.85",
-      "vinDecodedId": 125801,
+      "row": 402,
+      "vin": "1J4PS4GK3AC131361",
+      "dateYardOn": "2026-10-23T10:34:52.01",
+      "vinDecodedId": 134292,
       "extendedInfo": null
      },
      {
-      "vinID": 1098284,
-      "ticketID": 1187104,
+      "vinID": 1097371,
+      "ticketID": 1186358,
       "lineID": 1,
       "locID": 12,
       "locName": "Lafayette",
-      "makeID": 27,
-      "makeName": "HONDA",
-      "modelID": 1401,
-      "modelName": "PILOT",
-      "modelYear": 2010,
-      "row": 502,
-      "vin": "5FNYF3H23AB014647",
-      "dateYardOn": "2026-10-22T13:35:31.593",
-      "vinDecodedId": 129657,
+      "makeID": 21,
+      "makeName": "DODGE",
+      "modelID": 1270,
+      "modelName": "JOURNEY",
+      "modelYear": 2018,
+      "row": 403,
+      "vin": "3C4PDCAB6JT253803",
+      "dateYardOn": "2026-10-23T11:15:17.937",
+      "vinDecodedId": 223042,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098020,
+      "ticketID": 1186902,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 33,
+      "makeName": "JEEP",
+      "modelID": 1381,
+      "modelName": "PATRIOT",
+      "modelYear": 2009,
+      "row": 403,
+      "vin": "1J4FT28B49D159624",
+      "dateYardOn": "2026-10-23T11:08:15.593",
+      "vinDecodedId": 1133,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098030,
+      "ticketID": 1186912,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 21,
+      "makeName": "DODGE",
+      "modelID": 198,
+      "modelName": "CHARGER",
+      "modelYear": 2008,
+      "row": 403,
+      "vin": "2B3KA43G58H279458",
+      "dateYardOn": "2026-10-23T11:12:32.89",
+      "vinDecodedId": 3147,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098125,
+      "ticketID": 1186991,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 17,
+      "makeName": "CHRYSLER",
+      "modelID": 1581,
+      "modelName": "300",
+      "modelYear": 2008,
+      "row": 403,
+      "vin": "2C3LA53G48H223752",
+      "dateYardOn": "2026-10-23T11:02:09.143",
+      "vinDecodedId": 3095,
+      "extendedInfo": null
+     },
+     {
+      "vinID": 1098254,
+      "ticketID": 1187075,
+      "lineID": 1,
+      "locID": 12,
+      "locName": "Lafayette",
+      "makeID": 21,
+      "makeName": "DODGE",
+      "modelID": 198,
+      "modelName": "CHARGER",
+      "modelYear": 2007,
+      "row": 403,
+      "vin": "2B3KA43R37H817767",
+      "dateYardOn": "2026-10-23T11:02:22.647",
+      "vinDecodedId": 8575,
       "extendedInfo": null
      }
     ]
@@ -72370,9 +72432,9 @@
   ]
  },
  {
-  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1187018&lineID=13&programID=35&imageIndex=1",
+  "url": "https://imageservice.pullapart.com/img/retrieveimage/?locID=12&ticketID=1186358&lineID=1&programID=35&imageIndex=1",
   "data": {
-   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261022142737_12_1187018_13.png",
+   "webPath": "https://papimages.blob.core.windows.net/carinventory/12/2026/10/20261023121542_12_1186358_1.png",
    "filePath": ""
   }
  }
