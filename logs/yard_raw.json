@@ -4,8 +4,8 @@
   "data": {
    "uid": 830087,
    "dkey": "94a6533221e003b9a1b60b8dd5246344",
-   "updated_at": 1795356176,
-   "version": "11.5.573",
+   "updated_at": 1795456972,
+   "version": "11.5.576",
    "site_data_url_template": "https://script.crazyegg.com/pages/data-scripts/0083/0087/site/SITENAME.json",
    "site_sampling_url_template": "https://script.crazyegg.com/pages/data-scripts/0083/0087/sampling/SITENAME.json",
    "status_data_url": "https://script.crazyegg.com/pages/data-scripts/0083/0087/status.json",
@@ -32,7 +32,7 @@
    "ports_api_url": "https://api.crazyegg.com",
    "flow_preview_url": "https://api.crazyegg.com/abtests/preview",
    "clock_url": "https://tracking.crazyegg.com/clock",
-   "common_script_url": "https://script.crazyegg.com/pages/versioned/common-scripts/f6d8509483ff9ebf5575c4f629d2c53a.js",
+   "common_script_url": "https://script.crazyegg.com/pages/versioned/common-scripts/fa28f09c95d78edf3907ccf807f31c79.js",
    "port_script_url": "https://script.crazyegg.com/pages/versioned/port-scripts/7dc6c8b1a8d50a9cecda4b0b8c2d7527.js",
    "status": "ok",
    "counters_dest": "https://tracking.crazyegg.com/metrics",
@@ -42,12 +42,12 @@
    "trackingpagestate_script_url": "https://script.crazyegg.com/pages/versioned/trackingpagestate-scripts/a412465bb03a756d3e285204512ab089.js",
    "thirdparty_script_url": "https://script.crazyegg.com/pages/versioned/thirdparty-scripts/6fe5101ffa32e66e4debad675c8eea66.js",
    "remote_script_url": "https://script.crazyegg.com/pages/versioned/remote-scripts/81d1701dbc9e7f7bf421387273c9c389.js",
-   "remote_host_url": "https://script.crazyegg.com/pages/remote-host.html?common=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fcommon-scripts%2Ff6d8509483ff9ebf5575c4f629d2c53a.js&thirdparty=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fthirdparty-scripts%2F6fe5101ffa32e66e4debad675c8eea66.js&remote=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fremote-scripts%2F81d1701dbc9e7f7bf421387273c9c389.js",
-   "sites": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<!}$7$9$.$;$4$.$2$4$5$.$2$4$5%9&%$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9%9&%$3$1$2$.$2$8$6$.$2$4$3$.$3$2%9&%$2$;$3$.$2$7$9$.$1$.$3$2$8%9&%$2$;$3$.$2$7$9$.$1$.$2$6$6%9&%$8$6$.$8$3$.$2$8$4$.$9%9&%$2$;$3$.$2$7$9$.$1$.$3$2$;%9&%$8$5$.$2$4$;$.$3$4$6$.$2%9&%$8$5$.$9$4$.$2$1$6$.$7$5%9&%$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5!}$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<!}%8%;!}$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$3$9$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;",
+   "remote_host_url": "https://script.crazyegg.com/pages/remote-host.html?common=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fcommon-scripts%2Ffa28f09c95d78edf3907ccf807f31c79.js&thirdparty=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fthirdparty-scripts%2F6fe5101ffa32e66e4debad675c8eea66.js&remote=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fremote-scripts%2F81d1701dbc9e7f7bf421387273c9c389.js",
+   "sites": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<!}$7$9$.$;$4$.$2$4$5$.$2$4$5%9&%$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9%9&%$3$1$2$.$2$8$6$.$2$4$3$.$3$2%9&%$2$;$3$.$2$7$9$.$1$.$3$2$8%9&%$2$;$3$.$2$7$9$.$1$.$2$6$6%9&%$8$6$.$8$3$.$2$8$4$.$9%9&%$2$;$3$.$2$7$9$.$1$.$3$2$;%9&%$8$5$.$2$4$;$.$3$4$6$.$2%9&%$8$5$.$9$4$.$2$1$6$.$7$5%9&%$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5!}$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<!}%8%;!}$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$5$2$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;",
    "segments": [],
    "global_ip_block_list": "$7$9$.$;$4$.$2$4$5$.$2$4$5!.$2$9$;$.$3$1$4$.$2$8$5$.$2$3$9!.$3$1$2$.$2$8$6$.$2$4$3$.$3$2!.$2$;$3$.$2$7$9$.$1$.$3$2$8!.$2$;$3$.$2$7$9$.$1$.$2$6$6!.$8$6$.$8$3$.$2$8$4$.$9!.$2$;$3$.$2$7$9$.$1$.$3$2$;!.$8$5$.$2$4$;$.$3$4$6$.$2!.$8$5$.$9$4$.$2$1$6$.$7$5!.$2$3$.$3$2$;$.$6$6$.$2$-$2$3$.$3$2$;$.$6$6$.$3$6$5",
    "is_using_ip_blocking": true,
-   "transformations_script_url": "https://script.crazyegg.com/pages/versioned/transformations-scripts/112b3ca4413311b33120cb96185a345f.js",
+   "transformations_script_url": "https://script.crazyegg.com/pages/versioned/transformations-scripts/ad54c206ff3558a2a18341aefeb99c48.js",
    "page_views_limit_reached": false,
    "v11_tracking_dest": "https://tracking.crazyegg.com/v11",
    "page_states_tracking_url": "https://pagestates-tracking.crazyegg.com",
@@ -116,8 +116,8 @@
  {
   "url": "https://script.crazyegg.com/pages/data-scripts/0083/0087/sampling/www.pullapart.com.json?t=1",
   "data": {
-   "version": "11.5.573",
-   "sites_sampling": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$3$9$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4&6%;"
+   "version": "11.5.576",
+   "sites_sampling": "%8&4!}%|%]!}$<$5$7$1$;$7$7$,!}&%%?&$%^!}$<!}&(&-&!&!%?&(%?&*&,$.%[&&&$!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$5$2$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$1$4&6%;"
   }
  },
  {
@@ -71218,221 +71218,33 @@
   }
  },
  {
-  "url": "https://cdn-cookieyes.com/client_data/dc34215fe772012946c34a9f211dcc1e/audit-table/Pd1fPeQ4.json",
+  "url": "https://enterpriseservice.pullapart.com/Location/12",
   "data": {
-   "cookies": {
-    "__cf_bm": {
-     "cookie_id": "__cf_bm",
-     "duration": "1 hour",
-     "description": "This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. "
-    },
-    "_cfuvid": {
-     "cookie_id": "_cfuvid",
-     "duration": "session",
-     "description": "Cloudflare sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services"
-    },
-    ".AspNetCore.Antiforgery.*": {
-     "cookie_id": ".AspNetCore.Antiforgery.*",
-     "duration": "session",
-     "description": "This cookie is set by Microsoft AspNet for the purpose of Anti-forgery protection."
-    },
-    "VISITOR_PRIVACY_METADATA": {
-     "cookie_id": "VISITOR_PRIVACY_METADATA",
-     "duration": "6 months",
-     "description": "YouTube sets this cookie to store the user's cookie consent state for the current domain.\t"
-    },
-    "cookieyes-*": {
-     "cookie_id": "cookieyes-*",
-     "duration": "1 year",
-     "description": "CookieYes sets this cookie for consent solution management."
-    },
-    "euconsent": {
-     "cookie_id": "euconsent",
-     "duration": "1 year",
-     "description": "CookieYes sets this cookie to store data when IAB TCF is enabled."
-    },
-    "_zendesk_session": {
-     "cookie_id": "_zendesk_session",
-     "duration": "session",
-     "description": "Zendesk sets this cookie to store your choices as you navigate the support page."
-    },
-    "_help_center_session": {
-     "cookie_id": "_help_center_session",
-     "duration": "session",
-     "description": "Zdassests sets this cookie to hold preferences and session settings for customer support management, and it will be deleted when we leave the web browser."
-    },
-    "VISITOR_INFO1_LIVE": {
-     "cookie_id": "VISITOR_INFO1_LIVE",
-     "duration": "6 months",
-     "description": "A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface."
-    },
-    "ytidb::LAST_RESULT_ENTRY_KEY": {
-     "cookie_id": "ytidb::LAST_RESULT_ENTRY_KEY",
-     "duration": "Never Expires",
-     "description": "The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future."
-    },
-    "__sharethis_cookie_test__": {
-     "cookie_id": "__sharethis_cookie_test__",
-     "duration": "session",
-     "description": "ShareThis sets this cookie to track which pages are being shared and by whom. "
-    },
-    "fpestid": {
-     "cookie_id": "fpestid",
-     "duration": "1 year",
-     "description": "ShareThis sets this cookie as a cookie ID in the domain of the website operator."
-    },
-    "_ga_*": {
-     "cookie_id": "_ga_*",
-     "duration": "1 year 1 month 4 days",
-     "description": "Google Analytics sets this cookie to store and count page views."
-    },
-    "_ga": {
-     "cookie_id": "_ga",
-     "duration": "1 year 1 month 4 days",
-     "description": "Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors."
-    },
-    "invoca_session": {
-     "cookie_id": "invoca_session",
-     "duration": "1 year 1 month 4 days",
-     "description": "Invoca sets this cookie to register statistical data on users' behaviour on the website for internal analytics by the website operator."
-    },
-    "YSC": {
-     "cookie_id": "YSC",
-     "duration": "session",
-     "description": "YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages."
-    },
-    "vuid": {
-     "cookie_id": "vuid",
-     "duration": "1 year 1 month 4 days",
-     "description": "Vimeo installs this cookie to collect tracking information by setting a unique ID to embed videos on the website. "
-    },
-    "_sp_id.*": {
-     "cookie_id": "_sp_id.*",
-     "duration": "1 year 1 month 4 days",
-     "description": "Snowplow sets this cookie to store user information that is created when a user first visits a site and is updated on subsequent visits."
-    },
-    "_sp_ses.*": {
-     "cookie_id": "_sp_ses.*",
-     "duration": "1 hour",
-     "description": "Snowplow sets this cookie to store user information that is created when a user first visits a site and is updated on subsequent visits.\t"
-    },
-    "dm_timezone_offset": {
-     "cookie_id": "dm_timezone_offset",
-     "duration": "15 days 5 hours",
-     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to determine when the visitor has last entered the different subpages."
-    },
-    "dm_last_page_view": {
-     "cookie_id": "dm_last_page_view",
-     "duration": "1 year",
-     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to identify the frequency of the user visit and to determine how long a visitor stayed on the webste."
-    },
-    "dm_this_page_view": {
-     "cookie_id": "dm_this_page_view",
-     "duration": "1 year",
-     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to determine when the visitor has last entered the different subpages."
-    },
-    "dm_last_visit": {
-     "cookie_id": "dm_last_visit",
-     "duration": "1 year",
-     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to identify the frequency of the user visit and to determine how long a visitor stayed on the webste."
-    },
-    "dm_total_visits": {
-     "cookie_id": "dm_total_visits",
-     "duration": "1 year",
-     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to determine the frequency of the visit and to find out how long the visit is."
-    },
-    "__stid": {
-     "cookie_id": "__stid",
-     "duration": "1 year",
-     "description": "ShareThis sets this cookie as a service and monitors user activity, e.g., web pages viewed, navigation from page to page, time spent on each page, etc."
-    },
-    "calltrk_referrer": {
-     "cookie_id": "calltrk_referrer",
-     "duration": "6 months",
-     "description": "<p>This is a functionality cookie set by the CallRail. This cookie is used to store the referring URL. It helps to accurately attribute the visitor source when displaying a tracking phone number.</p>"
-    },
-    "calltrk_landing": {
-     "cookie_id": "calltrk_landing",
-     "duration": "6 months",
-     "description": "<p>This is a functionality cookie set by the CallRail. This cookie is used to store the landing page URL. It helps to accurately attribute the visitor source when displaying a tracking phone number.</p>"
-    },
-    "papMarketingParams": {
-     "cookie_id": "papMarketingParams",
-     "duration": "1 month",
-     "description": "<p>Stores UTM and marketing-attribution parameters so they can be included with a form submission and used to identify the campaign or referral source associated with the lead.</p>"
-    },
-    "_fbp": {
-     "cookie_id": "_fbp",
-     "duration": "3 months",
-     "description": "Facebook sets this cookie to store and track interactions."
-    },
-    "calltrk_nearest_tld": {
-     "cookie_id": "calltrk_nearest_tld",
-     "duration": "1 year 1 month 4 days",
-     "description": "<p>Set by CallRail to identify the highest-level domain available for call-tracking storage, helping maintain consistent visitor and attribution information across the website and its subdomains.</p>"
-    },
-    "__Secure-YNID": {
-     "cookie_id": "__Secure-YNID",
-     "duration": "6 months",
-     "description": "YouTube cookie used to protect user security and prevent fraud, especially during the login process."
-    },
-    "__Secure-ROLLOUT_TOKEN": {
-     "cookie_id": "__Secure-ROLLOUT_TOKEN",
-     "duration": "6 months",
-     "description": "YouTube sets this cookie to manage feature rollout and experimentation. It helps Google control which new features or interface changes are shown to users as part of testing and staged rollouts, ensuring consistent experience for a given user during an experiment."
-    },
-    "__Secure-YEC": {
-     "cookie_id": "__Secure-YEC",
-     "duration": "past",
-     "description": "<p>Set by YouTube to store video-player preferences for embedded videos and to help detect and resolve problems with the YouTube service.</p>"
-    },
-    "MUID": {
-     "cookie_id": "MUID",
-     "duration": "1 year 24 days",
-     "description": "Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations."
-    },
-    "_uetsid": {
-     "cookie_id": "_uetsid",
-     "duration": "1 day",
-     "description": "<p>Bing Ads sets this cookie to engage with a user that has previously visited the website.</p>"
-    },
-    "_uetvid": {
-     "cookie_id": "_uetvid",
-     "duration": "1 year 24 days",
-     "description": "<p>Bing Ads sets this cookie to engage with a user that has previously visited the website.</p>"
-    },
-    "st_samesite": {
-     "cookie_id": "st_samesite",
-     "duration": "session",
-     "description": "<p>ShareThis sets this cookie and is used to track visitor's website navigation preferences. This is used for internal statistics and marketing.</p>"
-    },
-    "_gcl_au": {
-     "cookie_id": "_gcl_au",
-     "duration": "3 months",
-     "description": "Google Tag Manager sets this cookie to experiment advertisement efficiency of websites using their services."
-    },
-    ".pullapart.com": {
-     "cookie_id": ".pullapart.com",
-     "duration": "1 day",
-     "description": "Description is currently not available."
-    }
-   },
-   "cky_audit_table_empty_text": "No cookies to display.",
-   "cky_audit_table_header_id": "Cookie",
-   "cky_audit_table_header_duration": "Duration",
-   "cky_audit_table_header_description": "Description",
-   "cky_preference_necessary_title": "Necessary",
-   "cky_preference_necessary_description": "<p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p>",
-   "cky_preference_functional_title": "Functional",
-   "cky_preference_functional_description": "<p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p>",
-   "cky_preference_analytics_title": "Analytics",
-   "cky_preference_analytics_description": "<p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p>",
-   "cky_preference_performance_title": "Performance",
-   "cky_preference_performance_description": "<p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p>",
-   "cky_preference_advertisement_title": "Advertisement",
-   "cky_preference_advertisement_description": "<p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p>",
-   "cky_preference_other_title": "Uncategorised",
-   "cky_preference_other_description": "<p>Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.</p>"
+   "locationID": 12,
+   "locationName": "Lafayette",
+   "address1": "207 Galbert Road",
+   "address2": "",
+   "cityName": "Lafayette",
+   "stateName": "LA",
+   "zip": "70506",
+   "siteTypeID": 3,
+   "phone": "337-237-7370",
+   "phoneCarBuying": "770-892-6121",
+   "phoneUsedCar": "337-443-4888",
+   "taxRate": 0.09,
+   "warrantyDays": 32,
+   "coreDays": 32,
+   "allowsCashReturns": 0,
+   "email": "lafayette@pullapart.com",
+   "passcodeForMiscItems": "False",
+   "retailEmail": "lft1Retail@pullapart.com",
+   "environmentalFeeCap": 1000000.0,
+   "environmentalFeeRate": 0.1,
+   "locationShortName": "lft1",
+   "dateCreated": "0001-01-01T00:00:00",
+   "dateModified": "0001-01-01T00:00:00",
+   "timeZoneId": 0,
+   "honorsDayLightSavingsTime": 0
   }
  },
  {
@@ -72386,33 +72198,221 @@
   ]
  },
  {
-  "url": "https://enterpriseservice.pullapart.com/Location/12",
+  "url": "https://cdn-cookieyes.com/client_data/dc34215fe772012946c34a9f211dcc1e/audit-table/Pd1fPeQ4.json",
   "data": {
-   "locationID": 12,
-   "locationName": "Lafayette",
-   "address1": "207 Galbert Road",
-   "address2": "",
-   "cityName": "Lafayette",
-   "stateName": "LA",
-   "zip": "70506",
-   "siteTypeID": 3,
-   "phone": "337-237-7370",
-   "phoneCarBuying": "770-892-6121",
-   "phoneUsedCar": "337-443-4888",
-   "taxRate": 0.09,
-   "warrantyDays": 32,
-   "coreDays": 32,
-   "allowsCashReturns": 0,
-   "email": "lafayette@pullapart.com",
-   "passcodeForMiscItems": "False",
-   "retailEmail": "lft1Retail@pullapart.com",
-   "environmentalFeeCap": 1000000.0,
-   "environmentalFeeRate": 0.1,
-   "locationShortName": "lft1",
-   "dateCreated": "0001-01-01T00:00:00",
-   "dateModified": "0001-01-01T00:00:00",
-   "timeZoneId": 0,
-   "honorsDayLightSavingsTime": 0
+   "cookies": {
+    "__cf_bm": {
+     "cookie_id": "__cf_bm",
+     "duration": "1 hour",
+     "description": "This cookie, set by Cloudflare, is used to support Cloudflare Bot Management. "
+    },
+    "_cfuvid": {
+     "cookie_id": "_cfuvid",
+     "duration": "session",
+     "description": "Cloudflare sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services"
+    },
+    ".AspNetCore.Antiforgery.*": {
+     "cookie_id": ".AspNetCore.Antiforgery.*",
+     "duration": "session",
+     "description": "This cookie is set by Microsoft AspNet for the purpose of Anti-forgery protection."
+    },
+    "VISITOR_PRIVACY_METADATA": {
+     "cookie_id": "VISITOR_PRIVACY_METADATA",
+     "duration": "6 months",
+     "description": "YouTube sets this cookie to store the user's cookie consent state for the current domain.\t"
+    },
+    "cookieyes-*": {
+     "cookie_id": "cookieyes-*",
+     "duration": "1 year",
+     "description": "CookieYes sets this cookie for consent solution management."
+    },
+    "euconsent": {
+     "cookie_id": "euconsent",
+     "duration": "1 year",
+     "description": "CookieYes sets this cookie to store data when IAB TCF is enabled."
+    },
+    "_zendesk_session": {
+     "cookie_id": "_zendesk_session",
+     "duration": "session",
+     "description": "Zendesk sets this cookie to store your choices as you navigate the support page."
+    },
+    "_help_center_session": {
+     "cookie_id": "_help_center_session",
+     "duration": "session",
+     "description": "Zdassests sets this cookie to hold preferences and session settings for customer support management, and it will be deleted when we leave the web browser."
+    },
+    "VISITOR_INFO1_LIVE": {
+     "cookie_id": "VISITOR_INFO1_LIVE",
+     "duration": "6 months",
+     "description": "A cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface."
+    },
+    "ytidb::LAST_RESULT_ENTRY_KEY": {
+     "cookie_id": "ytidb::LAST_RESULT_ENTRY_KEY",
+     "duration": "Never Expires",
+     "description": "The cookie ytidb::LAST_RESULT_ENTRY_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future."
+    },
+    "__sharethis_cookie_test__": {
+     "cookie_id": "__sharethis_cookie_test__",
+     "duration": "session",
+     "description": "ShareThis sets this cookie to track which pages are being shared and by whom. "
+    },
+    "fpestid": {
+     "cookie_id": "fpestid",
+     "duration": "1 year",
+     "description": "ShareThis sets this cookie as a cookie ID in the domain of the website operator."
+    },
+    "_ga_*": {
+     "cookie_id": "_ga_*",
+     "duration": "1 year 1 month 4 days",
+     "description": "Google Analytics sets this cookie to store and count page views."
+    },
+    "_ga": {
+     "cookie_id": "_ga",
+     "duration": "1 year 1 month 4 days",
+     "description": "Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors."
+    },
+    "invoca_session": {
+     "cookie_id": "invoca_session",
+     "duration": "1 year 1 month 4 days",
+     "description": "Invoca sets this cookie to register statistical data on users' behaviour on the website for internal analytics by the website operator."
+    },
+    "YSC": {
+     "cookie_id": "YSC",
+     "duration": "session",
+     "description": "YSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages."
+    },
+    "vuid": {
+     "cookie_id": "vuid",
+     "duration": "1 year 1 month 4 days",
+     "description": "Vimeo installs this cookie to collect tracking information by setting a unique ID to embed videos on the website. "
+    },
+    "_sp_id.*": {
+     "cookie_id": "_sp_id.*",
+     "duration": "1 year 1 month 4 days",
+     "description": "Snowplow sets this cookie to store user information that is created when a user first visits a site and is updated on subsequent visits."
+    },
+    "_sp_ses.*": {
+     "cookie_id": "_sp_ses.*",
+     "duration": "1 hour",
+     "description": "Snowplow sets this cookie to store user information that is created when a user first visits a site and is updated on subsequent visits.\t"
+    },
+    "dm_timezone_offset": {
+     "cookie_id": "dm_timezone_offset",
+     "duration": "15 days 5 hours",
+     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to determine when the visitor has last entered the different subpages."
+    },
+    "dm_last_page_view": {
+     "cookie_id": "dm_last_page_view",
+     "duration": "1 year",
+     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to identify the frequency of the user visit and to determine how long a visitor stayed on the webste."
+    },
+    "dm_this_page_view": {
+     "cookie_id": "dm_this_page_view",
+     "duration": "1 year",
+     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to determine when the visitor has last entered the different subpages."
+    },
+    "dm_last_visit": {
+     "cookie_id": "dm_last_visit",
+     "duration": "1 year",
+     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to identify the frequency of the user visit and to determine how long a visitor stayed on the webste."
+    },
+    "dm_total_visits": {
+     "cookie_id": "dm_total_visits",
+     "duration": "1 year",
+     "description": "This is a analytic cookie used to improve the site and service.This cookie is used to determine the frequency of the visit and to find out how long the visit is."
+    },
+    "__stid": {
+     "cookie_id": "__stid",
+     "duration": "1 year",
+     "description": "ShareThis sets this cookie as a service and monitors user activity, e.g., web pages viewed, navigation from page to page, time spent on each page, etc."
+    },
+    "calltrk_referrer": {
+     "cookie_id": "calltrk_referrer",
+     "duration": "6 months",
+     "description": "<p>This is a functionality cookie set by the CallRail. This cookie is used to store the referring URL. It helps to accurately attribute the visitor source when displaying a tracking phone number.</p>"
+    },
+    "calltrk_landing": {
+     "cookie_id": "calltrk_landing",
+     "duration": "6 months",
+     "description": "<p>This is a functionality cookie set by the CallRail. This cookie is used to store the landing page URL. It helps to accurately attribute the visitor source when displaying a tracking phone number.</p>"
+    },
+    "papMarketingParams": {
+     "cookie_id": "papMarketingParams",
+     "duration": "1 month",
+     "description": "<p>Stores UTM and marketing-attribution parameters so they can be included with a form submission and used to identify the campaign or referral source associated with the lead.</p>"
+    },
+    "_fbp": {
+     "cookie_id": "_fbp",
+     "duration": "3 months",
+     "description": "Facebook sets this cookie to store and track interactions."
+    },
+    "calltrk_nearest_tld": {
+     "cookie_id": "calltrk_nearest_tld",
+     "duration": "1 year 1 month 4 days",
+     "description": "<p>Set by CallRail to identify the highest-level domain available for call-tracking storage, helping maintain consistent visitor and attribution information across the website and its subdomains.</p>"
+    },
+    "__Secure-YNID": {
+     "cookie_id": "__Secure-YNID",
+     "duration": "6 months",
+     "description": "YouTube cookie used to protect user security and prevent fraud, especially during the login process."
+    },
+    "__Secure-ROLLOUT_TOKEN": {
+     "cookie_id": "__Secure-ROLLOUT_TOKEN",
+     "duration": "6 months",
+     "description": "YouTube sets this cookie to manage feature rollout and experimentation. It helps Google control which new features or interface changes are shown to users as part of testing and staged rollouts, ensuring consistent experience for a given user during an experiment."
+    },
+    "__Secure-YEC": {
+     "cookie_id": "__Secure-YEC",
+     "duration": "past",
+     "description": "<p>Set by YouTube to store video-player preferences for embedded videos and to help detect and resolve problems with the YouTube service.</p>"
+    },
+    "MUID": {
+     "cookie_id": "MUID",
+     "duration": "1 year 24 days",
+     "description": "Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations."
+    },
+    "_uetsid": {
+     "cookie_id": "_uetsid",
+     "duration": "1 day",
+     "description": "<p>Bing Ads sets this cookie to engage with a user that has previously visited the website.</p>"
+    },
+    "_uetvid": {
+     "cookie_id": "_uetvid",
+     "duration": "1 year 24 days",
+     "description": "<p>Bing Ads sets this cookie to engage with a user that has previously visited the website.</p>"
+    },
+    "st_samesite": {
+     "cookie_id": "st_samesite",
+     "duration": "session",
+     "description": "<p>ShareThis sets this cookie and is used to track visitor's website navigation preferences. This is used for internal statistics and marketing.</p>"
+    },
+    "_gcl_au": {
+     "cookie_id": "_gcl_au",
+     "duration": "3 months",
+     "description": "Google Tag Manager sets this cookie to experiment advertisement efficiency of websites using their services."
+    },
+    ".pullapart.com": {
+     "cookie_id": ".pullapart.com",
+     "duration": "1 day",
+     "description": "Description is currently not available."
+    }
+   },
+   "cky_audit_table_empty_text": "No cookies to display.",
+   "cky_audit_table_header_id": "Cookie",
+   "cky_audit_table_header_duration": "Duration",
+   "cky_audit_table_header_description": "Description",
+   "cky_preference_necessary_title": "Necessary",
+   "cky_preference_necessary_description": "<p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p>",
+   "cky_preference_functional_title": "Functional",
+   "cky_preference_functional_description": "<p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p>",
+   "cky_preference_analytics_title": "Analytics",
+   "cky_preference_analytics_description": "<p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p>",
+   "cky_preference_performance_title": "Performance",
+   "cky_preference_performance_description": "<p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p>",
+   "cky_preference_advertisement_title": "Advertisement",
+   "cky_preference_advertisement_description": "<p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p>",
+   "cky_preference_other_title": "Uncategorised",
+   "cky_preference_other_description": "<p>Other uncategorised cookies are those that are being analysed and have not been classified into a category as yet.</p>"
   }
  },
  {
